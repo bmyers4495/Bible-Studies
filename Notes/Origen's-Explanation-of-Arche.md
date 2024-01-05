@@ -1,7 +1,7 @@
 
 01/04/2024 16:50
 Status: #PersonalIdeas
-Tags:  [[Greek Studies]]
+Tags:  [[Greek Studies]] [[arche]]
 
 # Origen's Explanation of Arche
 
@@ -11,19 +11,19 @@ Tags:  [[Greek Studies]]
 
 ## Introduction
 
-It can be overwhelming at times to research the Etymology of words in ancient languages when we need only know the strict definition, but also the cultural understanding of such words. Fortunately, the etymology for "Arche", in particular features no such difficulty, as [[Origen]] (a 2nd and third century Greek speaker) elaborates on the meaning and particularly, the variety of context in which the word can be used.
+It can be overwhelming at times to research the Etymology of words in ancient languages when we need only know the strict definition, but also the cultural understanding of such words. Fortunately, the etymology for "Arche",  in particular presents no such difficulty, as [[Origen]] (a 2nd and third century Greek speaker) elaborates on the meaning and particularly, the variety of ways in which Christ could (or could not) be the beginning in the context of [John1:1-3](John#Ch1).
 
 So, what did Origen say was the meaning? To start, it seems clear that Origen understood that arche simply meant "beginning", however the much more pressing matter in his mind was, "the beginning of what?", which brings us to his list of possibilities, namely: 
-- [ beginning of a transition](Origen's-Explanation-of-Arche.md#Beginning%20of%20Transition)
-- [beginning of creation](Origen's-Explanation-of-Arche.md#Beginning%20of%20Creation)
-- [beginning of substance](Origen's-Explanation-of-Arche.md#Beginning%20of%20Substance)
-- [beginning of a type](Origen's-Explanation-of-Arche.md#Beginning%20of%20Type)
-- [beginning in learning](Origen's-Explanation-of-Arche.md#Beginning%20in%20Learning)
-- [beginning in design](Origen's-Explanation-of-Arche.md#Beginning%20in%20Design)
+- [ beginning of a transition](Origen's-Explanation-of-Arche.md#Beginning-of-Transition)
+- [beginning of creation](Origen's-Explanation-of-Arche.md#Beginning-of-Creation)
+- [beginning of substance](Origen's-Explanation-of-Arche.md#Beginning-of-Substance)
+- [beginning of a type](Origen's-Explanation-of-Arche.md#Beginning-of-Type)
+- [beginning in learning](Origen's-Explanation-of-Arche.md#Beginning-in-Learning)
+- [beginning in design](Origen's-Explanation-of-Arche.md#Beginning-in-Design)
 
 # Beginning of Transition
 
-One example of this is [Proverbs 9:10](../Bible-Summary/Proverbs.md#^ch9):
+One example of this is [Proverbs 9:10](../Bible-Summary/Proverbs#^ch9):
 
 > [!QUOTE]
 > >  [Proverbs 9:10 - NKJV](https://bolls.life/NKJV/20/9/)
@@ -46,9 +46,13 @@ He argues that at the end of the *road* - the ultimate good way - all enemies ar
 >  [1 Corinthians 15:25-26 - NKJV](https://bolls.life/NKJV/46/15/)
 >  <sup> 25 </sup>For He must reign till He has put all enemies under His feet. <sup> 26 </sup>The last enemy <i>that</i> will be destroyed <i>is</i> death.
 
-Thus, the intent of the good way is to be considered, namely that those who have believed in God on account of His word have one activity left - to know God. Origen argues this is the piece of the road which Jesus repaired, as man has no ability of intimately know God without Christ. It follows that the Word's incarnation is the beginning or arche of a transition into God's good way. 
+Thus, the intent of the good way is to be considered, namely that those who have believed in God on account of His word have one activity left - to know God. Origen argues this is the piece of the road which Jesus repaired, as man has no ability to intimately know God without Christ. It follows that the Word's incarnation is the beginning or arche of a transition into God's good way - the road to our ability to know God. 
 
 # Beginning of Creation
+
+Simply stated, the beginning of creation, refers to anything of this physical word. Origen even goes on to argue the Son is the demiurge or artisan over all that is created in this physical world. Examples of this usage include [Gen 1:1](../Bible-Summary/Genesis#ch1) and [Job 3:8](../Bible-Summary/Job#ch3). 
+
+It is clear that this use of the word arche applies, as [John 1:3](../Bible-Summary/John.md#ch1) states that nothing was made or generated without Him. 
 
 
 # Beginning of Substance
@@ -60,4 +64,4 @@ Thus, the intent of the good way is to be considered, namely that those who have
 
 # References
 
-The Commentary of John. Origen. 1.16 (p. 1154
+The Commentary of John. Origen. 1.16 (p. 1154)

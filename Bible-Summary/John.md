@@ -1,7 +1,7 @@
 
 01/04/2024 15:47
 Status: #BibleSummary
-Tags: [[John]]
+Tags: [[John]] [arche](arche)
 
 ___
 # John
