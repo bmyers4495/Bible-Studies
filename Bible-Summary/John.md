@@ -3,6 +3,7 @@
 Status: #BibleSummary
 Tags: [[John]]
 
+___
 # John
 
 # Author
@@ -10,7 +11,7 @@ Tags: [[John]]
 # Purpose
 
 
-
+___
 # Ch1
 
 >  [John 1:1-3 - NKJV](https://bolls.life/NKJV/43/1/)
@@ -25,12 +26,17 @@ Tags: [[John]]
 	- John's use of Logos was one which the Greeks would understand.
 		- There is a long, rich history of [Logos in Greek Philosophy](../Notes/Logos-in-Greek-Philosophy.md).
 		- Most of the Greek Philosophers were of the understanding that "Logos" was in some way responsible for creation.
-	- John reaffirms the Psalmist's position stated in [Psalms 33:6](Psalms.md#^e8e9c1)
+ - By his verbiage, John also reaffirms the Psalmist's position [1](John.md#^References) stated in [Psalm 33:6](Psalms#^Ch33)
 
 
 
-
-
-
+___
 
 # References
+
+>  [Psalm 32:6 - LXX](https://bolls.life/LXX/19/32/)
+>  6. ὁ ==**λόγος**== ὁ κύριος ὁ οὐρανός στερεόω καί ὁ πνεῦμα ὁ στόμα αὐτός πᾶς ὁ δύναμις αὐτός
+
+
+>  [Psalm 33:6 - NKJV](https://bolls.life/NKJV/19/33/)
+>  6. By the word of the LORD the heavens were made, And all the host of them by the breath of His mouth.
