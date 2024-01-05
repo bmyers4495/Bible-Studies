@@ -14,12 +14,12 @@ Tags:  [[Greek Studies]]
 It can be overwhelming at times to research the Etymology of words in ancient languages when we need only know the strict definition, but also the cultural understanding of such words. Fortunately, the etymology for "Arche", in particular features no such difficulty, as [[Origen]] (a 2nd and third century Greek speaker) elaborates on the meaning and particularly, the variety of context in which the word can be used.
 
 So, what did Origen say was the meaning? To start, it seems clear that Origen understood that arche simply meant "beginning", however the much more pressing matter in his mind was, "the beginning of what?", which brings us to his list of possibilities, namely: 
-- [ beginning of a transition](Origen's-Explanation-of-Arche#Beginning%20of%20Transition)
-- [beginning of creation](Origen's-Explanation-of-Arche#Beginning%20of%20Creation)
-- [beginning of substance](Origen's-Explanation-of-Arche#Beginning%20of%20Substance)
-- [beginning of a type](Origen's-Explanation-of-Arche#Beginning%20of%20Type)
-- [beginning in learning](Origen's-Explanation-of-Arche#Beginning%20in%20Learning)
-- [beginning in design](Origen's-Explanation-of-Arche#Beginning%20in%20Design)
+- [ beginning of a transition](Origen's-Explanation-of-Arche.md#Beginning%20of%20Transition)
+- [beginning of creation](Origen's-Explanation-of-Arche.md#Beginning%20of%20Creation)
+- [beginning of substance](Origen's-Explanation-of-Arche.md#Beginning%20of%20Substance)
+- [beginning of a type](Origen's-Explanation-of-Arche.md#Beginning%20of%20Type)
+- [beginning in learning](Origen's-Explanation-of-Arche.md#Beginning%20in%20Learning)
+- [beginning in design](Origen's-Explanation-of-Arche.md#Beginning%20in%20Design)
 
 # Beginning of Transition
 
@@ -55,7 +55,6 @@ Thus, the intent of the good way is to be considered, namely that those who have
 # Beginning of Type
 # Beginning in Learning
 # Beginning in Design
-# Beginning of Creation
 
 
 
