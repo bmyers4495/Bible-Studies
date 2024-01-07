@@ -92,8 +92,24 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 >  [John 3:5-8 - NKJV](https://bolls.life/NKJV/43/3/)
 >  <sup> 5 </sup>Jesus answered, “Most assuredly, I say to you,  unless one is born of water and the Spirit, he cannot enter the kingdom of God. <sup> 6 </sup>That which is born of the flesh is  flesh, and that which is born of the Spirit is spirit. <sup> 7 </sup>Do not marvel that I said to you, ‘You must be born again.’ <sup> 8 </sup>The wind blows where it wishes, and you hear the sound of it, but cannot tell where it comes from and where it goes. So is everyone who is born of the Spirit.”
 
-- In a sense Jesus is attempting to remind Nicodemus of the world to come.
-	- You have to be born of water and spirit to be enter into God's world to come which Job mentioned ([Job 14:14](#John3)).
+- Born of the water
+	- Jesus is referencing baptism.
+		- The idea of being "born again" is discussed by Paul in Rom 6 - new creature.
+		- In the direct context, Jesus was contrasting physical birth from the disciple of Christ's new birth.
+			- There is no indication that they would have used the same idiom as us in referring to the womb as water (i.e someone's water broke).
+			- Furthermore, Jesus is clearly speaking in context of one who has already been born physically.
+	- Significance of water in John, specifically:
+		- John says three times that he baptizes in water (1:26, 31, 33)
+		- Jesus turns water into wine (2:1-10)
+		- Jesus says we must be born of water and the spirit (3:5)
+		- John baptizes at Aenon near Salim because “there was much water there.” (3:23)
+		- Jesus promises the woman by the well living water (4:4-28)
+		- The lame man wants to get healed in the troubled waters of Bethesda (5:7)
+		- Jesus walks on water (6:19)
+		- Jesus invites the thirsty to come to him and drink (7:37-39)
+		- Jesus heals blind man in pool of Siloam (9:6-7)
+		- Jesus washes his disciples feet (13:4-5)
+		- Water flows from Jesus' side (19:34)
 - Jesus concept of "born of the spirit".
 	- The same Greek word is used for "spirit" and "wind" in v 8 (Pneuma).
 	- The analogy made is broken down.
