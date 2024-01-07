@@ -83,24 +83,26 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 
 - [[Born Again]] possibly has some implications in the Jewish mind
 	- The language is nearly the same as the Talmud's discussion of gentiles being proselyted --> new born.
-	- Kings went through a process that rendered them "newborns" ([Psa 2:7](#References))
-	- Another Jewish though of rebirth was in their world to come ([Job 14:14](#References))
+	- Kings went through a process that rendered them "newborns" ([Psa 2:7](#References)).
+	- Another Jewish though of rebirth was in their world to come ([Job 14:14](#References)).
 - Despite the significance of new birth throughout the Law and Prophets, Nicodemus was not able to understand to what Jesus was referring.
-- Also coincides with Paul's teaching of walking in newness of life ([Rom 6:1-4](#References))
+- Also coincides with Paul's teaching of walking in newness of life ([Rom 6:1-4](#References)).
 
 
 >  [John 3:5-8 - NKJV](https://bolls.life/NKJV/43/3/)
 >  <sup> 5 </sup>Jesus answered, “Most assuredly, I say to you,  unless one is born of water and the Spirit, he cannot enter the kingdom of God. <sup> 6 </sup>That which is born of the flesh is  flesh, and that which is born of the Spirit is spirit. <sup> 7 </sup>Do not marvel that I said to you, ‘You must be born again.’ <sup> 8 </sup>The wind blows where it wishes, and you hear the sound of it, but cannot tell where it comes from and where it goes. So is everyone who is born of the Spirit.”
 
 - In a sense Jesus is attempting to remind Nicodemus of the world to come.
-	- You have to be born of water and spirit to be enter into God's world to come which Job mentioned ([Job 14:14](#References))
-- Jesus concept of "born of the spirit"
-	- The same greek word is used for "spirit" and "wind" in v 8 (Pneuma)
-	- The analogy made is broken down
-		- The wind is not controlled by you, and is around you everywhere
-		- Despite it being all around you and you sensing the evidence of it, cannot see where it's coming or going
-		- Perhaps this is a reminder of [Eze 37:1-14](#References).
-			- The wind blew, the bones were made alive
+	- You have to be born of water and spirit to be enter into God's world to come which Job mentioned ([Job 14:14](#John3)).
+- Jesus concept of "born of the spirit".
+	- The same Greek word is used for "spirit" and "wind" in v 8 (Pneuma).
+	- The analogy made is broken down.
+		- The wind is not controlled by you, and is around you everywhere.
+		- Despite it being all around you and you sensing the evidence of it, cannot see where it's coming or going.
+		- You can see the evidence of the new birth, you don't see the inner-working - God's work ([Mat 7:16, 20](#John3))
+		- The spiritual rebirth is that of repentance, like walking in newness of life (Rom 6)
+	- Perhaps this is a reminder of [Eze 37:1-14](#John3).
+		- The wind blew, the bones were made alive
 	- Jesus is proving that this isn't some radical teaching which began with Jesus, Ezekiel and Job prophesied about this very same new birth about which Jesus is speaking!
 
  
@@ -120,6 +122,8 @@ ___
 >  [Psalm 2:7 - NKJV](https://bolls.life/NKJV/19/2/)
 >  <sup> 7 </sup>“I will declare the decree: The LORD has said to Me,  ‘You <i>are</i> My Son, Today I have begotten You.
 
+# John3
+
 >  [Job 14:14 - NKJV](https://bolls.life/NKJV/18/14/)
 >  <sup> 14 </sup>If a man dies, shall he live <i>again?</i> All the days of my hard service I will wait, Till my change comes.
 
@@ -129,5 +133,9 @@ ___
 >  [Ezekiel 37:1-14 - NKJV](https://bolls.life/NKJV/26/37/)
 >  <sup> 1 </sup>The hand of the LORD came upon me and brought me out in the Spirit of the LORD, and set me down in the midst of the valley; and it <i>was</i> full of bones. <sup> 2 </sup>Then He caused me to pass by them all around, and behold, <i>there</i> <i>were</i> very many in the open valley; and indeed <i>they</i> <i>were</i> very dry. <sup> 3 </sup>And He said to me, “Son of man, can these bones live?” So I answered, “O Lord GOD, You know.” <sup> 4 </sup>Again He said to me, “Prophesy to these bones, and say to them, ‘O dry bones, hear the word of the LORD! <sup> 5 </sup>Thus says the Lord GOD to these bones: “Surely I will cause breath to enter into you, and you shall live. <sup> 6 </sup>I will put sinews on you and bring flesh upon you, cover you with skin and put breath in you; and you shall live. Then you shall know that I <i>am</i> the LORD.” ’ ” <sup> 7 </sup>So I prophesied as I was commanded; and as I prophesied, there was a noise, and suddenly a rattling; and the bones came together, bone to bone. <sup> 8 </sup>Indeed, as I looked, the sinews and the flesh came upon them, and the skin covered them over; but <i>there</i> <i>was</i> no breath in them. <sup> 9 </sup>Also He said to me, “Prophesy to the breath, prophesy, son of man, and say to the breath, ‘Thus says the Lord GOD: “Come from the four winds, O breath, and breathe on these slain, that they may live.” ’ ” <sup> 10 </sup>So I prophesied as He commanded me, and breath came into them, and they lived, and stood upon their feet, an exceedingly great army. <sup> 11 </sup>Then He said to me, “Son of man, these bones are the whole house of Israel. They indeed say, ‘Our bones are dry, our hope is lost, and we ourselves are cut off!’ <sup> 12 </sup>Therefore prophesy and say to them, ‘Thus says the Lord GOD: “Behold, O My people, I will open your graves and cause you to come up from your graves, and bring you into the land of Israel. <sup> 13 </sup>Then you shall know that I <i>am</i> the LORD, when I have opened your graves, O My people, and brought you up from your graves. <sup> 14 </sup>I will put My Spirit in you, and you shall live, and I will place you in your own land. Then you shall know that I, the LORD, have spoken <i>it</i> and performed <i>it,</i>” says the LORD.’ ”
 
+>  [Matthew 7:16 - NKJV](https://bolls.life/NKJV/40/7/)
+>  <sup> 16 </sup>You will know them by their fruits.  Do men gather grapes from thornbushes or figs from thistles?
 
+>  [Matthew 7:20 - NKJV](https://bolls.life/NKJV/40/7/)
+>  <sup> 20 </sup>Therefore by their fruits you will know them.
 
