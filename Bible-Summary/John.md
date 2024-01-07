@@ -29,7 +29,23 @@ ___
  - By his verbiage, John also reaffirms the Psalmist's position [1](John.md#^References) stated in [Psalm 33:6](Psalms#^Ch33)
 
 # Ch3
-- 
+
+>  [John 3:1-3 - NKJV](https://bolls.life/NKJV/43/3/)
+>  <sup> 1 </sup>There was a man of the Pharisees named Nicodemus, a ruler of the Jews. <sup> 2 </sup>This man came to Jesus by night and said to Him, “Rabbi, we know that You are a teacher come from God; for no one can do these signs that You do unless God is with him.” <sup> 3 </sup>Jesus answered and said to him, “Most assuredly, I say to you,  unless one is born again, he cannot see the kingdom of God.”
+
+
+- Here were 70 member of the Sanhedrin, and only three were spoken of positively.
+	- Nicodemus (John 7:50-51).
+	- Joseph of Arimathea (John 19:38).
+	- Gamaliel (Acts 5:34-39).
+- There are a couple ideas why John chose night, but no clear reason.
+	- Perhaps he was fearful of the Jews.
+	- Perhaps it was a cultural and evening was the time they'd visit.
+	- Maybe it was because it was a good time to have uninterrupted conversation.
+- There are two possibilities I can conceive as to whom Nicodemus might be referring to when he says "we".
+	- Could this be an admission that the Pharisees knew exactly who He was?
+	- Possibly there were more Pharisees who though favorably of Christ.
+- [[Born Again]] - 
 
  
 
