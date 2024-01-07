@@ -28,6 +28,10 @@ ___
 		- Most of the Greek Philosophers were of the understanding that "Logos" was in some way responsible for creation.
  - By his verbiage, John also reaffirms the Psalmist's position [1](John.md#^References) stated in [Psalm 33:6](Psalms#^Ch33)
 
+# Ch3
+- 
+
+ 
 
 
 ___
