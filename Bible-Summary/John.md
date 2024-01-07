@@ -103,8 +103,23 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 		- The spiritual rebirth is that of repentance, like walking in newness of life (Rom 6)
 	- Perhaps this is a reminder of [Eze 37:1-14](#John3).
 		- The wind blew, the bones were made alive
-	- Jesus is proving that this isn't some radical teaching which began with Jesus, Ezekiel and Job prophesied about this very same new birth about which Jesus is speaking!
+	- Jesus is proving that this isn't some radical teaching which began with Jesus, Ezekiel and Job prophesied about this very same new birth about which Jesus is speaking ([Eze 36:25-27](#John2))!
 
+>  [John 3:9-17 - NKJV](https://bolls.life/NKJV/43/3/)
+>  <sup> 9 </sup>Nicodemus answered and said to Him, “How can these things be?” <sup> 10 </sup>Jesus answered and said to him, “Are you the teacher of Israel, and do not know these things? <sup> 11 </sup>Most assuredly, I say to you, We speak what We know and testify what We have seen, and  you do not receive Our witness. <sup> 12 </sup>If I have told you earthly things and you do not believe, how will you believe if I tell you heavenly things? <sup> 13 </sup>No one has ascended to heaven but He who came down from heaven, <i>that is,</i> the Son of Man who is in heaven. <sup> 14 </sup>And as Moses lifted up the serpent in the wilderness, even so  must the Son of Man be lifted up, <sup> 15 </sup>that whoever  believes in Him should not perish but have eternal life. <sup> 16 </sup>For God so loved the world that He gave His only begotten  Son, that whoever believes in Him should not perish but have everlasting life. <sup> 17 </sup>For God did not send His Son into the world to condemn the world, but that the world through Him might be saved.
+
+- Nicodemus should have known at least some about the new birth as mentioned earlier.
+- Jesus' response is not uncommon to how He often responded to the Jew's questions.
+	- "You err because you don't know the scriptures"(Mark 12:24)
+	- "Have ye no read...?" (Mat 19:4)
+	- at least 7 times Jesus asks them: "have you not read", but the question is asked to the Jews on several occasions.
+- Perhaps he is speaking of the Pharisees in general in vs 11, as they time and time again rejected the testimony of Christ even through the miracles he performed.
+	- How can Jesus explain things like the Spirit (which is allusive and can't be seen directly - v8), when they are not even open to learning from the things they have seen?
+	- The only one who has seen the heavenly things would be the Son (speaking of Himself). 
+- Jesus continues explaining "heavenly" things by referring to another instance Nicodemus should know - Moses raising the serpent in the wilderness ([Num 21:4-9](#John3))
+	- Israel sinned, repented, and was restored.
+	- The cure for Israel's disease was the serpent, Jesus is the cure for our sin disease.
+- The Son being lifted up refers to His crucifixion (John 8:28; 12:32)
  
 
 
@@ -138,4 +153,13 @@ ___
 
 >  [Matthew 7:20 - NKJV](https://bolls.life/NKJV/40/7/)
 >  <sup> 20 </sup>Therefore by their fruits you will know them.
+
+>  [Ezekiel 36:25-27 - NKJV](https://bolls.life/NKJV/26/36/)
+>  <sup> 25 </sup>Then I will sprinkle clean water on you, and you shall be clean; I will cleanse you from all your filthiness and from all your idols. <sup> 26 </sup>I will give you a new heart and put a new spirit within you; I will take the heart of stone out of your flesh and give you a heart of flesh. <sup> 27 </sup>I will put My Spirit within you and cause you to walk in My statutes, and you will keep My judgments and do <i>them.</i>
+
+>  [Numbers 21:4-9 - NKJV](https://bolls.life/NKJV/4/21/)
+>  <sup> 4 </sup>Then they journeyed from Mount Hor by the Way of the Red Sea, to go around the land of Edom; and the soul of the people became very discouraged on the way. <sup> 5 </sup>And the people spoke against God and against Moses: “Why have you brought us up out of Egypt to die in the wilderness? For <i>there</i> <i>is</i> no food and no water, and our soul loathes this worthless bread.” <sup> 6 </sup>So the LORD sent fiery serpents among the people, and they bit the people; and many of the people of Israel died. <sup> 7 </sup>Therefore the people came to Moses, and said, “We have sinned, for we have spoken against the LORD and against you; pray to the LORD that He take away the serpents from us.” So Moses prayed for the people. <sup> 8 </sup>Then the LORD said to Moses, “Make a fiery <i>serpent,</i> and set it on a pole; and it shall be that everyone who is bitten, when he looks at it, shall live.” <sup> 9 </sup>So Moses made a bronze serpent, and put it on a pole; and so it was, if a serpent had bitten anyone, when he looked at the bronze serpent, he lived.
+
+
+
 
