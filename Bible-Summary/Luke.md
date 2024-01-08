@@ -27,10 +27,12 @@ Tags:
 			- Caiaphas was the result of the uprooted priesthood.
 - John's baptism of repentance.
 	- The baptism he was teaching was a bridge of sorts to the baptism of the Christian. (see [Jews view of John's Death](../Reference%20Notes/Josephus-Antiquities#Jews%20theory%20on%20John's%20death))
-		- John's baptism perhaps links to the purification process of the purification in the old testament.
-			- Moses commanded alot of physical purification (ie Woman in her uncleannes ([Lev 12](https://bolls.life/NKJV/3/12/)), Inauguration of the Levites as the Priestly Tribe ([Num 8](https://bolls.life/NKJV/4/8/) ), etc).
-			- The Jewish teachings on purification was a type of what was to come ()
-		- 
+		- Moses commanded alot of physical purification (ie Woman in her uncleannes ([Lev 12](https://bolls.life/NKJV/3/12/)), Inauguration of the Levites as the Priestly Tribe ([Num 8](https://bolls.life/NKJV/4/8/) ), etc).
+		- The Jewish teachings on purification was a type of what was to come ([Heb 9:13-19](https://bolls.life/NKJV/58/9/13-19/)).
+	- Note that Luke says John was "preaching" a baptism of repentance for the remission of sins; not that John's baptism brought these things.
+		- Otherwise, why did we need Christ?
+		- The Hebrew writer argued that we MUST have had Jesus to remit our sins.
+	- 
 
 
 
