@@ -16,7 +16,7 @@ Tags:
 >  <sup> 1 </sup>Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, Herod being tetrarch of Galilee, his brother Philip tetrarch of Iturea and the region of Trachonitis, and Lysanias tetrarch of Abilene, <sup> 2 </sup>while Annas and Caiaphas were high priests, the word of God came to John the son of Zacharias in the wilderness. <sup> 3 </sup>And he went into all the region around the Jordan, preaching a baptism of repentance for the remission of sins,
 
 
-- Government arrangement ([Antiquities 18:1-35](https://www.gutenberg.org/files/2848/2848-h/2848-h.htm#link182HCH0001))
+- Government arrangement ([Antiquities 18:1-35](https://www.gutenberg.org/files/2848/2848-h/2848-h.htm#link182HCH0001)).
 	- Tiberius was the Emperor (Like our president).
 	- Herod (Archelaus) was king of Judea (Like a governor).
 	- Pilate was procurator.
@@ -32,7 +32,9 @@ Tags:
 	- Note that Luke says John was "preaching" a baptism of repentance for the remission of sins; not that John's baptism brought these things.
 		- Otherwise, why did we need Christ?
 		- The Hebrew writer argued that we MUST have had Jesus to remit our sins.
-	- 
+		- This was John prophesying of the baptism to come.
+- 
+
 
 
 
