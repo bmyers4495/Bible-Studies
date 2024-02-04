@@ -1,0 +1,4 @@
+- [ ] [Origen's-Explanation-of-Arche](Origen's-Explanation-of-Arche.md)
+- [ ] [lxx-vs-the-Hebrew-Bible](lxx-vs-the-Hebrew-Bible.md)
+- [ ] [Philo and Logos](Philo%20and%20Logos.md)
+- [ ] 
