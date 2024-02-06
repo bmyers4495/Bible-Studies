@@ -163,3 +163,15 @@ https://www.jw.org/en/bible-teachings/questions/go-to-heaven/
 > “On this account I say to you, Quit being anxious about your souls as to what you will eat or about your bodies as to what you will wear. For the soul is worth more than food and the body than clothing. Mark well that the ravens neither sow seed nor reap, and they have neither barn nor storehouse, and yet God feeds them. Of how much more worth are you than birds? Who of you by being anxious can add a cubit to his life-span? If, therefore, you cannot do the least thing, why be anxious about the remaining things? Mark well how the lilies grow; they neither toil nor spin; but I tell you, Not even Solomon in all his glory was arrayed as one of these. If, now, God thus clothes the vegetation in the field that today exists and tomorrow is cast into an oven, how much rather will he clothe you, you with little faith! So quit seeking what you might eat and what you might drink, and quit being in anxious suspense; for all these are the things the nations of the world are eagerly pursuing, but your Father knows you need these things. Nevertheless, seek continually his kingdom, and these things will be added to you.”​—[Luke 12:22-31](https://wol.jw.org/en/wol/bc/r1/lp-e/1978846/13/0).
 
 https://wol.jw.org/en/wol/d/r1/lp-e/1978846?q=lay+your+treasures+in+heaven&p=doc; p4
+
+### [Who is Christ?](https://www.jw.org/en/library/books/enjoy-life-forever/section-2/lesson-15/)
+
+- Col 1:15 - First born (Protokos)
+	- Does not necessarily indicate birth order - rather rank
+	- If it has to do with his being created, how will the Father make him first-born (Psa 89:27) 
+	- First born refers to His preeminence over all of these things
+	- Further, He is the Creator.
+- John 3:16 - Only begotten (Monogenes)
+	- Refers to the fact that He is the same in ESSENCE as the Father
+	- He is God, not creature.
+	- 
