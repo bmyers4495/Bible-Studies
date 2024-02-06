@@ -8,6 +8,14 @@ Tags: [Jesus' Deity]  [Jesus' Divinity]  [Jesus]  [Deity]  [Divinity]
 
 # Deity Of Christ
 
+## Meaning of Deity
+
+Though out history, there have been many supposed deities. With the history man has of deification,
+it is quite difficult to nail down a precise definition that encompasses every supposed deity. The
+Bible, however, is clear regarding who and what God is.
+
+While the Greeks and those be
+
 ## Deification of the Messiah 
 
 It seems most scholars count **at least 300** prophesies fulfilled by Jesus. The fact is that Jesus
