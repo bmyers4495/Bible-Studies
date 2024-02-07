@@ -22,7 +22,7 @@ fear. Though there is more to the story it is safe to say, the difference betwee
 gods is established in this very passage.
 
 Yet another contrast between the gods of man versus YHWH is found when the priests of Baal attempt
-to go against Elijah [^1Kings18]
+to go against Elijah [1Kings 18:20-40](^1kings18)
 
 
 
