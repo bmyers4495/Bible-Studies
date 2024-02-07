@@ -10,12 +10,15 @@ Tags: [Jesus' Deity]  [Jesus' Divinity]  [Jesus]  [Deity]  [Divinity]
 
 ## Meaning of Deity
 
+
 Though out history, there have been many supposed deities. With the history man has of deification,
 it is quite difficult to nail down a precise definition that encompasses every supposed deity.
 Deities have ranged from beings that are just slightly more than super-human to the omniscient,
-omnipotent, omnipresent God of the Bible. 
+omnipotent, omnipresent, omni-benevolent of the Bible. 
 
-Yahweh is distinct from all 
+YHWH is distinct from all deities in several ways. Deities throughout history have been limited in
+power, knowledge, and love. For example, Zeus - the "king of gods" - according to the Greek religion
+was, on many occasions, outsmarted [^1]
 
 
 
@@ -32,6 +35,7 @@ such a matter. So, what did the prophets have to say?
 
 
 
+
 ## Deification of Himself
 
 ## Deification by His Disciples
@@ -43,3 +47,5 @@ such a matter. So, what did the prophets have to say?
 # References
 
 https://www.monergism.com/divine-messiah-old-testament
+
+[^1]: footnote: text here
