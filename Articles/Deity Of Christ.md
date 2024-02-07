@@ -17,8 +17,11 @@ Deities have ranged from beings that are just slightly more than super-human to 
 omnipotent, omnipresent, omni-benevolent of the Bible. 
 
 YHWH is distinct from all deities in several ways. Deities throughout history have been limited in
-power, knowledge, and love. For example, Zeus - the "king of gods" - according to the Greek religion
-was, on many occasions, outsmarted [^1]
+power, knowledge, and love. In the narrative of Typhon [^1], the gods [^2] fled from Typhon out of
+fear. Though there is more to the story it is safe to say, the difference between YHWH and their
+gods is established in this very passage.
+
+Yet another example of 
 
 
 
@@ -48,4 +51,6 @@ such a matter. So, what did the prophets have to say?
 
 https://www.monergism.com/divine-messiah-old-testament
 
-[^1]: footnote: text here
+[^1]: https://www.britannica.com/topic/Typhon
+[^2]: The fleeing gods included Zeus, Apollo, Dionysus,Here, Artemis, Aphrodite, Ares, Hermes, and
+    more. Athene was the only one to stand her ground. **Robert Graves in his book Greek Myths I.p.132**
