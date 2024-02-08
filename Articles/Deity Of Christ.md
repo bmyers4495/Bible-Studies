@@ -53,11 +53,28 @@ philosophers who through a concoction of observation of the earth and reasoning;
 God's attributes, like His eternality. Furthermore, Moses' psalm expresses proclaims His eternality
 (Psa 90:2). 
 
+## Jesus, Created or Creator? 
+
+- [] Col 1:15
+- [] John 3:16
+- [] John 1:4; Gen 1:1
+
 ## Deity of the Messiah in Prophecy. 
 
 ## His Proclamation of Deity
 
+### Jesus, is lesser (John 14:28,29)
+
+### Son of God
+
+### Son of Man
+
+
 ## His Disciples Proclamation of His Deity
+
+- [] Rom 10:10 - Lord refers to Jesus in context
+- [] Heb 1:1-6
+- 
 
 ## Historical views on His Deity.
 
