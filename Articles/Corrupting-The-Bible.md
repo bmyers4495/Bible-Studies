@@ -1,4 +1,5 @@
 # Corrupting the Bible!
+
 <br/>
 
 ## Modern Conspiracies Theories
@@ -20,10 +21,28 @@ authors originally said.
 
 ---
 
-Mr. Ehrman suggests that there are **many** more New Testament manuscripts than these ancient works,
-which are generally accepted. With that in mind, it is much more challenging to find -
+Consider Mr.Ehrman's point. He states it is "good news" (regarding accuracy) that there are this many manuscripts because textual critics have more texts to compare, allowing them to be very accurate in respect to the original writings. The multiplicity of manuscripts work together as a sort of checks and balances. The amount of copies of the Greek New Testament is very unique when it comes to ancient writings! For example, Aristotle's Poetics was written around the fourth century BC, we only have 10 manuscripts, and the earliest copy we currently have was written some 1400 years later. Often Biblical skeptics make the claim that there is no way we have the original text because it has been corrupted in the process of copying or translating,  but how justifiable is this claim?
+According to Mr. Ehrman [around 94%](https://ehrmanblog.org/do-most-manuscripts-have-the-original-text/) of the Greek New Testament copies after dated around the ninth century; so using this approximation,  what would it take for a ninth century copyist to corrupt the Bible? 
+
+<br/>
+
+This means there are around 285 (95%) copies of the Greek New Testament before the ninth century. The first step the copyist must take to corrupt the New Testament writings would be to find all 285 copies and change them with out his ink work being obvious. He would go all over the world to find every single copy that was written before his time. 
+
+If that seems infeasible, it is said that one could reassemble at least 90% (overly-conservative estimation) of the New Testament exclusively by copying it from the works of the Early church fathers. No doubt some of these men had first century copies, so the copyist would need to go through every copy of every writing of the church fathers, edit them without any evidence of doing so, and put them back. 
+
+The copyist is left with just one task. Much before the copyist's time, people were already translating the New Testament into other languages including: Syriac, Coptic, and Latin. After all his hard work searching for the other manuscripts, he needs to find every copy in each of these languages, change them, and put them back again with no evidence of doing so.
+
+All the estimates are generous, given we are still finding early manuscripts to this day. Imagine how many more early copies the ninth century copyist would have had. It seems outrageous that a man or even multiple could successfully search for and corrupt this many manuscripts with zero evidence of doing so. 
 
 ## Dealing with the Discrepancies
 
-There are subtle differences between manuscripts, but scholars have pretty much settled that most are inconsequential. Of the few differences which are brought forth as relevant to Christian theology, I'd still argue, they are still inconsequential. For example, whether or not John wrote 1 John 5:7 - the Godhead is still consistently taught in other places of Scripture (another topic for another day).
+To cast doubt on the believer, skeptics will sometimes say that there are thousands of discrepancies in the manuscripts that we do have. Thousands seem like a lot until you consider what they would call a "discrepancy." Often these "discrepancies" include a letter missing from a word, punctuation missing, or an accent changed. Scholars agree that at least the majority of these changes mean nothing to Christian theology. Even the changes that are said to have some import to Christian theology, mean very little. For example, whether 1 John 5:7 was written by John or a scribe means very little,  as the doctrine of the Godhead is found throughout the Scriptures.
+
+---
+
+## Concluding Thoughts
+
+There is no book from the first few centuries or earlier that are as well documented as the Greek New Testament. No matter what type of sophistry the skeptic uses, there is no way to "get over" the simple fact that it would be realistically infeasible for a person or a group of people to corrupt such a well-documented text. When we pick up our English Bible, we can read it in confidence that we do have God's original message for us!
+
+
 
