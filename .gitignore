@@ -1,8 +1,8 @@
 /.obsidian
 /Templates
 /Rabbits.md
-Articles/*.un
-Sermons/*.un
-Bible-Summary/*.un
-Refernce-Notes/*.un
-Notes/*.un
+/Articles/*.un~
+/Sermons/*.un~
+/Bible-Summary/*.un~
+/Refernce-Notes/*.un~
+/Notes/*.un~
