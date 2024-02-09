@@ -26,10 +26,9 @@ Yet another contrast between the gods of man versus God is found when the priest
 to go against Elijah and the God of Israel (1 Kings 18:20-40). The point of the narrative
 was to present God's power over the power of created gods. 
 
-God has set Himself apart from all other gods through the Scriptures. Moreover, not only did God
-set Himself apart, but He has demonstrated why He is distinguished; to the point that there is no
-comparison. He defeated the gods of Egypt, the gods of Canaanites, the , and every other god
-which man has conjured.
+God has set Himself apart from all other gods through the Scriptures. Not only did God set Himself
+apart, but He has demonstrated why He is distinguished; to the point that there is no comparison. He
+defeated the gods of Egypt, the gods of Canaanites, the, and every other god which man has conjured.
 
 #### God's Nature
 
@@ -42,16 +41,18 @@ reveled enough about Himself that man can know what he needs to know.
 Perhaps the most important attribute that one must recognize is the "aesity" of God; that is, His
 self-sufficiency. God is the creator of **all** things (Gen 1), thus, not dependent on anything.
 Melchizedek is clear about who God is when he proclaimed: “Blessed be Abram of God Most High,
-Possessor of heaven and earth;"(Gen 14:19). The earth is God's possession by virtue of the fact that
-He created everything in it. Further, he created the heavenly beings (Job 38:4-7). Thus, there is
-nothing on earth nor in heaven which God does not possess; because he created it all.
+Possessor of heaven and earth;"(Gen 14:19). The earth is God's possession because He created
+everything in it. Further, he created the heavenly beings (Job 38:4-7). Thus, there is nothing on
+earth nor in heaven which God does not possess; because he created it all.
 
 It necessarily follows that God is eternal. If God created all things and time is one of those
-things; God would not be bound by it; in this sense, He is pre-time. Paul taught that many of God's attributes
-could be understood through searching nature (Rom 1:20-25). Paul was speaking about the Grecian
-philosophers who through a concoction of observation of the earth and reasoning; understood some of
-God's attributes, like His eternality. Furthermore, Moses' psalm expresses proclaims His eternality
-(Psa 90:2). 
+things; God would not be bound by it; hence, He is pre-time. Paul taught that many of God's
+attributes could be understood through searching nature (Rom 1:20-25). Paul was speaking about the
+Grecian philosophers who through a concoction of observation of the earth and reasoning; understood
+some of God's attributes, like His eternality. Furthermore, Moses' psalm expresses proclaims His
+eternality (Psa 90:2). 
+
+#### God's 
 
 ## Jesus, Created or Creator? 
 

@@ -1,8 +1,3 @@
-
-
-
-
-
 - Col 1:15
 	- Firstborn
 		- Psa 89:27 - He was appointed His first born.
