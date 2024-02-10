@@ -17,9 +17,10 @@ poll](https://news.gallup.com/poll/341963/church-membership-falls-below-majority
 	- I am not here to suggest any new idea or profound method of evangelism.
 	- I would suggest that a good start is to look at the first century church and how they
 	grew.
-- I want to especially what I believe to be the key attributes of the first century church. 
+- I want to especially notice what I believe to be key attributes which point to the success of the
+first century church
 
-#Body
+# Body
 
 - Fellowship of the First Century
 	- Greek word - Koinoia
@@ -88,3 +89,7 @@ poll](https://news.gallup.com/poll/341963/church-membership-falls-below-majority
 stock, and communicate to every one in need;
 
 Martyr, Justin. The Writings of Justin Martyr (Annotated) (p. 19). Logia. Kindle Edition.  
+
+
+
+
