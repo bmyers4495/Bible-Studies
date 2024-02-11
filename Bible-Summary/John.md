@@ -309,6 +309,39 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 		- This was not Jesus' goal at all
 		- Jesus' response touches on the spirituality of the kingdom more than the physicality
 	- Even the Roman's believed in a sort of Messiah that would make Rome a never ending kingdom [^1]
+- Salvation is of the Jews is to be taken to mean that it comes through the Jew, not that it is only available to them.
+	- The prophets revealed a lot about God and His Son; which the Samaritans did not accept.
+	- The had not the slightest clue what they worshiped; which is why idolatry they accepted idolatry.
+- Spirit has been emphasized as long as God required worship
+	- Hos 6:6; Mat 15:8
+	- His spiritual nature distinguished Him from a physical body. 
+		- Geographical location was not important - as a physical construct.
+		- Perhaps this is also a hit at idolatry?
+- Truth was always important to God as well
+	- The truth is absolute; He IS, not just a shadow.
+		- The Jews and Samaritans were stuck on the shadow of things to come.
+	- They needed to worship Him according to His word.
+
+
+> [!bible]+ [John 4:25-27 - NKJV](https://bolls.life/NKJV/43/4/)
+>  <sup> 25 </sup>The woman said to Him, “I know that Messiah is coming” (who is called Christ). “When He comes, He will tell us all things.” <sup> 26 </sup>Jesus said to her, “I who speak to you am <i>He.</i>” <sup> 27 </sup>And at this <i>point</i> His disciples came, and they marveled that He talked with a woman; yet no one said, “What do You seek?” or, “Why are You talking with her?”
+
+- I wonder if she was getting the impression that He might be more than a prophet at this point.
+	- Maybe she is also acknowledging that she does not understand who she worships
+	- Jesus affirms his Messiahship here
+- Upon arrival, his disciples were shocked.
+
+> [!bible]+ [John 4:28-30 - NKJV](https://bolls.life/NKJV/43/4/)
+>  <sup> 28 </sup>The woman then left her waterpot, went her way into the city, and said to the men, <sup> 29 </sup>“Come, see a Man who told me all things that I ever did. Could this be the Christ?” <sup> 30 </sup>Then they went out of the city and came to Him.
+
+- This is evangelism!
+	- She understood exactly what Jesus was teaching
+	- She was excited about the Gospel
+	- Maybe there is an illustration here about the spirit and the truth
+- How excited are we about the Gospel?
+	- I think we have a lot to learn from this Samaritan lady.
+	- She was not a big name or highly intelligent, but she did understand what she had here in Jesus.
+
 
 # References
 
