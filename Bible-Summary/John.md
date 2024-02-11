@@ -294,8 +294,21 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 - Some say this was her testing Him by throwing a "red herring" at Him to distract from her sins.
 	- Almost like what the Pharisees would often do in trying to trap Jesus
 	- Whether her motives were nefarious or she genuinely needed to know, Jesus entertained the question.
+-  Samaritans and their beliefs
+	- They only accepted the Mosaic texts - not the prophets
+	- They believed that the Messiah would establish a kingdom from Shechem - more specifically Mt Gerizim
+		- They are stuck pre-inheritance Deut 11:29, before Israel obtained the land promise.
+		- I am not sure how they dismiss Deut 12:9-11
+	- Along with Mosaic text, they also somehow affirmed idol worship
 
+> [!bible]+ [John 4:21-24 - NKJV](https://bolls.life/NKJV/43/4/)
+>  <sup> 21 </sup>Jesus said to her, “Woman, believe Me, the hour is coming  when you will neither on this mountain, nor in Jerusalem, worship the Father. <sup> 22 </sup>You worship  what you do not know; we know what we worship, for  salvation is of the Jews. <sup> 23 </sup>But the hour is coming, and now is, when the true worshipers will  worship the Father in  spirit  and truth; for the Father is seeking such to worship Him. <sup> 24 </sup>God <i>is</i> Spirit, and those who worship Him must worship in spirit and truth.”
 
+- She was missing the whole point by asking this question.
+	- Everyone believed that their Messiah would conquer the world for them and make them the "world power"
+		- This was not Jesus' goal at all
+		- Jesus' response touches on the spirituality of the kingdom more than the physicality
+	- Even the Roman's believed in a sort of Messiah that would make Rome a never ending kingdom [^1]
 
 # References
 
@@ -308,6 +321,7 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 
 >  [Psalm 2:7 - NKJV](https://bolls.life/NKJV/19/2/)
 >  <sup> 7 </sup>“I will declare the decree: The LORD has said to Me,  ‘You <i>are</i> My Son, Today I have begotten You.
+
 
 # John3
 
@@ -333,3 +347,4 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 >  <sup> 4 </sup>Then they journeyed from Mount Hor by the Way of the Red Sea, to go around the land of Edom; and the soul of the people became very discouraged on the way. <sup> 5 </sup>And the people spoke against God and against Moses: “Why have you brought us up out of Egypt to die in the wilderness? For <i>there</i> <i>is</i> no food and no water, and our soul loathes this worthless bread.” <sup> 6 </sup>So the LORD sent fiery serpents among the people, and they bit the people; and many of the people of Israel died. <sup> 7 </sup>Therefore the people came to Moses, and said, “We have sinned, for we have spoken against the LORD and against you; pray to the LORD that He take away the serpents from us.” So Moses prayed for the people. <sup> 8 </sup>Then the LORD said to Moses, “Make a fiery <i>serpent,</i> and set it on a pole; and it shall be that everyone who is bitten, when he looks at it, shall live.” <sup> 9 </sup>So Moses made a bronze serpent, and put it on a pole; and so it was, if a serpent had bitten anyone, when he looked at the bronze serpent, he lived.
 
 
+[^1]: The belief was widespread in the world at that time or earlier that the Epiphany or coming of a god in human form on earth, was imminent, in order to save the human race from the destruction which the sins of mankind deserved and had brought nigh. The world was perishing in its crimes, and only the coming of the God Himself could save it. This belief can be observed in various forms during the years that preceded. It prompted the Fourth Eclogue of Virgil and it is seen in the Second Ode of Horace. To them it means the glory and the triumph and the permanence of Rome.
