@@ -263,6 +263,7 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 
 - As usual, she misunderstands Jesus, and thinks He is referring to perhaps moving water.
 	- Physical water prevents death temporarily, living water gives eternal life.
+	
 > [!bible]+ [John 4:11-12 - NKJV](https://bolls.life/NKJV/43/4/)
 >  <sup> 11 </sup>The woman said to Him, “Sir, You have nothing to draw with, and the well is deep. Where then do You get that living water? <sup> 12 </sup>Are You greater than our father Jacob, who gave us the well, and drank from it himself, as well as his sons and his livestock?”
 
@@ -270,6 +271,7 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 	- She could not think of anyone who could be greater than Jacob
 	- Later Jesus will proclaim "before Abraham was I AM" (John 8:58)
 - It is interesting that she claimed Jacob as their father as the Jews thought the same.
+
 > [!bible]+ [John 4:13-15 - NKJV](https://bolls.life/NKJV/43/4/)
 >  <sup> 13 </sup>Jesus answered and said to her, “Whoever drinks of this water will thirst again, <sup> 14 </sup>but  whoever drinks of the water that I shall give him will never thirst. But the water that I shall give him  will become in him a fountain of water springing up into everlasting life.” <sup> 15 </sup>The woman said to Him, “Sir, give me this water, that I may not thirst, nor come here to draw.”
 
@@ -277,6 +279,7 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 	- The water from this venerated well leaves a person satisfied temporarily.
 	- The water Jesus offers gives eternal life.
 - She still does not quite understand the meaning of "living water"
+
 > [!bible]+ [John 4:16-20 - NKJV](https://bolls.life/NKJV/43/4/)
 >  <sup> 16 </sup>Jesus said to her, “Go, call your husband, and come here.” <sup> 17 </sup>The woman answered and said, “I have no husband.” Jesus said to her, “You have well said, ‘I have no husband,’ <sup> 18 </sup>for you have had five husbands, and the one whom you now have is not your husband; in that you spoke truly.” <sup> 19 </sup>The woman said to Him, “Sir, I perceive that You are a prophet. <sup> 20 </sup>Our fathers worshiped on this mountain, and you <i>Jews</i> say that in Jerusalem is the place where one ought to worship.”
 
@@ -291,7 +294,8 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 - Some say this was her testing Him by throwing a "red herring" at Him to distract from her sins.
 	- Almost like what the Pharisees would often do in trying to trap Jesus
 	- Whether her motives were nefarious or she genuinely needed to know, Jesus entertained the question.
-___
+
+
 
 # References
 
@@ -327,4 +331,5 @@ ___
 
 >  [Numbers 21:4-9 - NKJV](https://bolls.life/NKJV/4/21/)
 >  <sup> 4 </sup>Then they journeyed from Mount Hor by the Way of the Red Sea, to go around the land of Edom; and the soul of the people became very discouraged on the way. <sup> 5 </sup>And the people spoke against God and against Moses: “Why have you brought us up out of Egypt to die in the wilderness? For <i>there</i> <i>is</i> no food and no water, and our soul loathes this worthless bread.” <sup> 6 </sup>So the LORD sent fiery serpents among the people, and they bit the people; and many of the people of Israel died. <sup> 7 </sup>Therefore the people came to Moses, and said, “We have sinned, for we have spoken against the LORD and against you; pray to the LORD that He take away the serpents from us.” So Moses prayed for the people. <sup> 8 </sup>Then the LORD said to Moses, “Make a fiery <i>serpent,</i> and set it on a pole; and it shall be that everyone who is bitten, when he looks at it, shall live.” <sup> 9 </sup>So Moses made a bronze serpent, and put it on a pole; and so it was, if a serpent had bitten anyone, when he looked at the bronze serpent, he lived.
+
 
