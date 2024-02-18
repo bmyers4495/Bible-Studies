@@ -3,8 +3,21 @@
 02/15/2024 06:01
 Status: #Sermon
 Tags: [love] [charity] [Christianity] 
-Passage:
+Passage: [John 13:35]
 # Love - Earmark of a Christian
+
+#Introduction
+
+- There are many doctrines taught throughout the Scriptures
+	- How we should worship.
+	- How we should live.
+	- What we should believe about God.
+- Is there a common thread throughout all of this doctrine?
+- Jesus said "you will know them by their LOVE" (John 13:35)
+	- Not by their knowledge
+	- Not by their wealth
+	- If Jesus is saying this is what Christians do, perhaps we need to know what the rest of
+	the Scriptures teach on the subject!
 
 - What is Love?
 	- When discussing biblical love, we often note that there are at least 6 types of love.
