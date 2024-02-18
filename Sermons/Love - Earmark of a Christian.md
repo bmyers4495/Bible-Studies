@@ -6,7 +6,7 @@ Tags: [love] [charity] [Christianity]
 Passage: [John 13:35]
 # Love - Earmark of a Christian
 
-#Introduction
+# Introduction
 
 - There are many doctrines taught throughout the Scriptures
 	- How we should worship.
@@ -18,6 +18,8 @@ Passage: [John 13:35]
 	- Not by their wealth
 	- If Jesus is saying this is what Christians do, perhaps we need to know what the rest of
 	the Scriptures teach on the subject!
+	
+# Body
 
 - What is Love?
 	- When discussing biblical love, we often note that there are at least 6 types of love.
