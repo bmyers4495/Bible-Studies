@@ -58,11 +58,7 @@ know whether it were a place fit for a camp, as I came back, I saw many captives
 remembered three of them as my former acquaintance. I was very sorry at this in my mind, and went
 with tears in my eyes to Titus, and told him of them; so he immediately commanded them to be taken
 down, and to have the greatest care taken of them, in order to their recovery; yet two of them died
-under the physician’s hand, while the third recovered. A camp, as I came back, I saw many captives
-crucified; and remembered three of them as my former acquaintance. I was very sorry at this in my
-mind, and went with tears in my eyes to Titus, and told him of them; so he immediately commanded
-them to be taken down, and to have the greatest care taken of them, in order to their recovery; yet
-two of them died under the physician’s hand, while the third recovered (Life of Josephus, 420-422).
+under the physician’s hand, while the third recovered (Life of Josephus, 420-422).
 
 #### Problems With Swoon Theory
 
