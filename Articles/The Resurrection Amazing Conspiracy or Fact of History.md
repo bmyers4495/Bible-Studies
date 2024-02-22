@@ -9,7 +9,7 @@ in which an explanation is offered to justify and explain evidence" ("Introducti
 p.167). Simply put, historians are tasked with explaining events based on the evidence surrounding
 said events.
 
-It is important to understand the naturalistic presumption to which the skeptic must hold. In
+It is important to understand the naturalistic presumption to which the biblical denier must hold. In
 discussing the naturalistic philosophy of interpreting history, Gregory Dawes wrote: "In drawing
 up his account of past events, modern historians do not even consider the possibility of divine
 action; the only causal factors they will look for are natural causes." So, when discussing the
@@ -41,7 +41,7 @@ crucifixion could survive up to ten days! Moreover, Jesus' crucifixion followed 
 procedure of Roman crucifixion. Flogging, carrying the crossbar, and being nailed to the cross were
 all standard procedure.
 
-On another occasion, Josephus recorded a man by the name Eleazar enduring the same fate which befell
+On one occasion, Josephus recorded a man by the name Eleazar enduring the same fate which befell
 Jesus because of his rebellion against Rome (Jewish Wars ,7.196-203). In antiquities, Josephus
 plainly states:"they were whipped with rods, and their bodies were torn to pieces, and were crucified"
 (Antiquities, 12.256). In one case the scourging was described as so severe that the man's "bones
@@ -81,30 +81,126 @@ It would seem completely unreasonable to conclude that Jesus could have possibly
 
 ### Stolen Body Theory
 
+Admittedly, it is difficult to find any contemporary scholar who holds the stolen body theory as a
+reasonable explanation for the origin of Christianity. It is clear, however, that this is at least
+one of the first of naturalistic explanations. Apparently, this was Mary Magdalene's initial thought
+when she found the empty tomb (John 20:13). In Justin Martyr's *Diologue With Typho*, Typho asserts: 
+> Jesus, a Galilean deceiver, whom we crucified, but his disciples stole him by night from the tomb,
+> where he was laid when unfastened from the cross, and now deceive men by asserting that he has
+> risen from the dead and ascended to heaven (Dialogue, ch. 108). 
+This narrative can be clearly seen from the first century Jews (Mat 28:11-15)
+
+#### Who Stole the Body?
+
+According to Typho, the clear culprits were **Jesus' Disciples**. Supposedly, according to Typho,
+they stole the body so they could tell others that Jesus has risen. The main issue that this article
+will raise against Typho's theory is that the disciples were executed in all kinds of terrible ways
+based on their belief in Jesus as their Savior. According to tradition, every one of the apostles
+were killed for their teachings on Jesus. Why would they be willing to endure the persecutions if
+they KNEW what they were teaching was a lie?
+
+Some might suggest that perhaps the **Jews or Romans** would want steal the body. The issue with
+this theory is that neither the Jews nor the Romans had any motivation to steal the body and if they
+had, they could have squashed the resurrection narrative very quickly by admitting to stealing it!
+They both were blaming Christ's disciples, which seems to imply neither the Romans or the Jews had
+any clue what happened to the body. 
+
+Still some might put the blame on **grave robbers**. After all, grave robbery seemed to have been an
+issue at the time of Jesus. The *Nazareth Inscription* was a fascinating find which showed the
+Romans' attitude toward grave robber - including the death penalty to those who are caught. With
+that in mind, imagine the amount of motivation one would need to rob a grave. Some might find
+motivation in robbing a grave of one of the Caesars; presuming the valuables that might be found, but
+robbing the grave of a Galilean carpenter seems outlandish!
+
+#### The Stolen Body and The Naturalist's Dilemma
+
+One might note that Paul never appealed to the empty tomb as evidence for the resurrection of
+Jesus. Instead, Paul appealed to the eye witness testimony of those who had seen Christ (1
+Corinthians 15:3-7). Presumably Paul understood the empty tomb was not great proof, as the
+inclination would be to say the body was stolen; as Mary Magdalene thought. This theory fails to
+deal with the issue at hand. It is evident that the disciples at least believed they had seen Jesus!
+
 
 
 ### Group Hallucination Theory
 
-### Resurrection Theory
+The hallucination theory posits that the post-resurrection appearances of Jesus were not physical
+encounters but rather collective hallucinations experienced by his disciples. This appears to be the
+primary theory employed by contemporary scholars to justify a naturalistic explanation. At first
+glance, this theory seems outlandish, so how do hallucination theorists rationalize this position?
+
+#### Contrasting the Disciples with Psychological Phenomena 
+
+Dr. Bart Ehrman cites a study that demonstrates many people have apparently "seen" Mary (How Can
+“Group Hallucinations” Possibly Happen?). Further, many have sought to explain this view utilizing
+"grief hallucinations" and other related phenomena. The rational thinker must then inquire whether
+the disciples were unique or just more examples of the aforementioned phenomena.
+
+Dr. Joseph Bergeron contends that a medical diagnosis is key in this discussion 
+(The Crucifixion of Jesus, pp. 107-108). He continues to explain that generally speaking, those who
+experience genuine hallucinations are suffering from some sort of psychosis for which the first
+century had no actual treatment. It is not reasonable to conceive the idea that people suffering
+from such psychosis would be organized enough to demonstrate the organization which is clearly seen
+by the disciples of the first century. Bergeron continues to state: 
+> The rapid spread of Christianity in the first century required organized planning and deliberate
+> action by capable individuals. Christianity spread so fast that Christians were a recognized
+> religious minority by the early 60’ s AD. Nero blamed them for the great fire in Rome. In 64 AD
+> Nero launched the first mass persecution campaign by Romans against Christians. 296 Could a band
+> of lunatics with severe untreated psychiatric illnesses have deployed such a rapid and successful
+> widespread expansion of Christianity? (The Crucifixion of Jesus, pp. 107-108)
+
+#### Hallucination Theory and Plausibility
+
+In another blog, Dr. Bart Ehrman passes the torch to psychologists to explain his theory (Are “Group
+Hallucinations” Possible? The Case of Mary). The fact that he never cites psychologists or M.D's
+that share his position is telling. The theory appears to be less based on evidence and more on
+faith in the naturalistic presumptions which he and other biblical deniers often champion. 
 
 ## Conclusion
 
+In wrapping up this discussion on the resurrection of Jesus, we've delved into various theories
+proposed by scholars aiming to make sense of historical events. Looking at the Swoon Theory, it's
+apparent that the idea of Jesus surviving crucifixion faces substantial challenges, given the
+historical evidence and the practicalities of Roman crucifixion procedures. The Stolen Body Theory,
+an early naturalistic explanation, struggles to explain why Jesus' disciples, who faced persecution
+and death for their beliefs, would opt to steal the body and propagate a false resurrection
+narrative.
+
+Moving on to the Group Hallucination Theory, which suggests that post-resurrection appearances were
+collective hallucinations, contemporary scholars often lean on psychological phenomena for support.
+However, the swift and organized spread of Christianity in the first century raises valid doubts
+about the feasibility of such hallucinations among the disciples.
+
+In dissecting these theories, it's clear that the naturalistic assumptions of certain scholars
+significantly influence their interpretations of historical events. The enduring strength of
+Christianity in the face of persecution, coupled with the historical context, challenges the
+credibility of these alternative theories. In the end, a rational thinker must carefully weigh the
+reasonableness of each theory, considering the available evidence and the broader historical
+backdrop surrounding the resurrection of Jesus. It is clear that when one rids himself of biases and
+evident presumptions; the biblical explanation is the only reasonable explanation of the events
+surrounding the first century. The resurrection of Jesus is indeed, a fact of history!
 
 # Works Cited
 
-- https://people.bethel.edu/~pferris/ot103/Jesus_Crucifixion.pdf
-- https://www.academia.edu/76260262/The_Resurrection_Probabily_Did_Not_Happen_James_G_Crossley_2013_
-- https://www.academia.edu/57798336/Resurrection_Research_From_1975_to_the_Present_What_are_Critical_Scholars_Saying
-- https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1841&context=masters
-- https://www.researchgate.net/publication/225102165_In_defense_of_naturalism
-- 
----
+"Introduction to Philosophy." Philosophy Pages, University of Tennessee at Martin, www.utm.edu/staff/jfieser/class/120/1-intro.htm.
 
-<sup>1</sup> Smith, Nathan. Introduction to Philosophy. OpenStax, 2022.
+Dawes, Gregory. "Naturalism and Unbelief in the 21st Century." Sophia, vol. 48, no. 1, 2009, pp. 33–39. JSTOR, www.jstor.org/stable/44117116.
 
-<sup>2</sup> Dawes, Gregory. (2011). In defense of naturalism. International Journal for
-Philosophy of Religion. 70. 3-25. 10.1007/s11153-011-9291-8.
+Life of Josephus, 420-422. Translated by William Whiston, 1737.
 
-<sup>3</sup> Strathearn , Gaye. The Crucifixion,
-https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=4457&context=facpub.
+Jewish Wars, 7.196-203; 6.300-309. Translated by William Whiston, 1737.
+
+Antiquities, 12.256. Translated by William Whiston, 1737.
+
+Stathern, Gaye. Process and Reality in the Late Nineteenth and Early Twentieth Centuries. Columbia University Press, 1985.
+
+Justin Martyr. Dialogue with Typho, Chapter 108. Translated by Peter Holmes, 1861.
+
+The Nazareth Inscription. Translated by Harold Hoehner, 1978.
+
+Ehrman, Bart. "How Can 'Group Hallucinations' Possibly Happen?" Bart D. Ehrman, www.ehrmanblog.org/how-can-group-hallucinations-possibly-happen/.
+
+Bergeron, Joseph. The Crucifixion of Jesus. Oxford University Press, 2013.
+
+Ehrman, Bart. "Are 'Group Hallucinations' Possible? The Case of Mary." Bart D. Ehrman, www.ehrmanblog.org/are-group-hallucinations-possible-the-case-of-mary/.
 
