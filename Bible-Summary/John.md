@@ -341,8 +341,37 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 - How excited are we about the Gospel?
 	- I think we have a lot to learn from this Samaritan lady.
 	- She was not a big name or highly intelligent, but she did understand what she had here in Jesus.
+- Could this be the Christ?
+	- Christ = Messiah
+	- The Samaritans did believe in a messiah to come (Deut 18:15-18)
+		- It is funny, the Jews believe the Messiah was going to restore the kingdom of
+		Israel
+		- The Samaritans believed a restoration of the Samaritan temple on mount Gerizim
+		- Jesus' mission was neither of these things.
+	- We will read later, that Jesus is able to educate them in the truth
+		- An interesting comparison is emerging from the text in regards to comparing
+		Samaritans with the Jews.
+		- Though the Samaritans were downtrodden and cast out as "half breeds" Jesus seems
+		to speak well of them on almost every occasion
+		- In contrast with the Jews, when the Samaritans hear the truth, they follow! 
+		
+> [!bible]+ [John 4:31-38 - NKJV](https://bolls.life/NKJV/43/4/)
+>  <sup> 31 </sup>In the meantime His disciples urged Him, saying, “Rabbi, eat.” <sup> 32 </sup>But He said to them, “I have food to eat of which you do not know.” <sup> 33 </sup>Therefore the disciples said to one another, “Has anyone brought Him <i>anything</i> to eat?” <sup> 34 </sup>Jesus said to them, “My food is to do the will of Him who sent Me, and to  finish His work. <sup> 35 </sup>Do you not say, ‘There are still four months and <i>then</i> comes  the harvest’? Behold, I say to you, lift up your eyes and look at the fields,  for they are already white for harvest! <sup> 36 </sup>And he who reaps receives wages, and gathers fruit for eternal life, that  both he who sows and he who reaps may rejoice together. <sup> 37 </sup>For in this the saying is true:  ‘One sows and another reaps.’ <sup> 38 </sup>I sent you to reap that for which you have not labored;  others have labored, and you have entered into their labors.”
 
 
+- This continuation is interesting because Jesus was just talking about "living water" provided by Him, and is now talking about non-physical food.
+	- Deut 8:3; Mat 4:4; Luke 4:4 - Man shall not live by bread alone.
+	- His path had not deviated since He went to the temple as a boy.
+	- It is as if he's saying "there are more important things to do than eat"
+	- It also seems like Jesus is saying that He has sown, the disciples now need to reap.
+- Biblical sowing and reaping (1 Cor 3:6)
+	- As it pertains to evangelism, "planting the seed" is all we can do.
+		- The master teacher taught and many seeds were planted, but not many came to fruition.
+		- We cannot allow some peoples' lack of acknowledgement of the truth hinder us.
+		- Sometimes I think we get a defeatist attitude where we go through a long list of things we could do, toss them all out because they probably wont work, then end up doing nothing.
+	- Notice, most importantly, from where the increase comes!
+		- If we are doing what we need to do, God provides the increase
+		- Have we forgotten about God's providence?
 # References
 
 >  [Psalm 32:6 - LXX](https://bolls.life/LXX/19/32/)
