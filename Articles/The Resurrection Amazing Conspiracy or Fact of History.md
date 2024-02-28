@@ -85,9 +85,9 @@ Admittedly, it is difficult to find any contemporary scholar who holds the stole
 reasonable explanation for the origin of Christianity. It is clear, however, that this is at least
 one of the first of naturalistic explanations. Apparently, this was Mary Magdalene's initial thought
 when she found the empty tomb (John 20:13). In Justin Martyr's *Diologue With Typho*, Typho asserts: 
-> Jesus, a Galilean deceiver, whom we crucified, but his disciples stole him by night from the tomb,
-> where he was laid when unfastened from the cross, and now deceive men by asserting that he has
-> risen from the dead and ascended to heaven (Dialogue, ch. 108). 
+ 
+> Jesus, a Galilean deceiver, whom we crucified, but his disciples stole him by night from the tomb, where he was laid when unfastened from the cross, and now deceive men by asserting that he has risen from the dead and ascended to heaven (Dialogue, ch. 108). 
+
 This narrative can be clearly seen from the first century Jews (Mat 28:11-15)
 
 #### Who Stole the Body?
@@ -142,12 +142,13 @@ experience genuine hallucinations are suffering from some sort of psychosis for 
 century had no actual treatment. It is not reasonable to conceive the idea that people suffering
 from such psychosis would be organized enough to demonstrate the organization which is clearly seen
 by the disciples of the first century. Bergeron continues to state: 
+ 
 > The rapid spread of Christianity in the first century required organized planning and deliberate
-> action by capable individuals. Christianity spread so fast that Christians were a recognized
-> religious minority by the early 60’ s AD. Nero blamed them for the great fire in Rome. In 64 AD
-> Nero launched the first mass persecution campaign by Romans against Christians. 296 Could a band
-> of lunatics with severe untreated psychiatric illnesses have deployed such a rapid and successful
-> widespread expansion of Christianity? (The Crucifixion of Jesus, pp. 107-108)
+action by capable individuals. Christianity spread so fast that Christians were a recognized
+religious minority by the early 60’ s AD. Nero blamed them for the great fire in Rome. In 64 AD
+Nero launched the first mass persecution campaign by Romans against Christians. 296 Could a band
+of lunatics with severe untreated psychiatric illnesses have deployed such a rapid and successful
+widespread expansion of Christianity? (The Crucifixion of Jesus, pp. 107-108)
 
 #### Hallucination Theory and Plausibility
 
