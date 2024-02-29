@@ -199,7 +199,11 @@ His worshippers has not changed with the transition into the law of Christ.
 
 
  
+ 
 [1]: Alexander of Clement; Instructor 2.8 
+
 [2]: Terturllian Against;  Marcion 5.18
+
 [3]: John Calvin, Calvin’s Commentaries (Complete), trans. John King; Accordance electronic ed. (Edinburgh: Calvin Translation Society, 1847), paragraph 13694.)
+
 [4]: “Thayer’s Greek-English Lexicon of the New Testament,” Greek-English Lexicon of the New Testament, paragraph 2.
