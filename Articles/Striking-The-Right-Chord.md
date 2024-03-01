@@ -77,7 +77,7 @@ and flute, which those expert in war and contemners of the fear of God were wont
 in the choruses at their festive assemblies; that by such strains they might raise their dejected
 minds. But let our genial feeling in drinking be twofold, in accordance with the law [^1] 
 
-Terturllian seemed understood Ephesian 5:19 as a refutation against the use of instruments: 
+Terturllian seemed to understand Ephesian 5:19 as a refutation against the use of instruments: 
 
 > The command, to sing to the Lord with psalms and hymns, [ Ephesians 5:19 ] comes suitably from him
  who knew that those who drank wine with drums and psalteries were blamed by God [^3].
@@ -102,6 +102,10 @@ commentary on Psalm 33:2 and says:
  restoration of the other shadows of the law. The Papists, therefore, have foolishly borrowed this,
  as well as many other things, from the Jews. Men who are fond of outward pomp may delight in that
  noise; but the simplicity which God recommends to us by the apostle is far more pleasing to him.
+
+In fact, as one searches through protestant history, he would be hard-pressed to find any defense of
+the instrument until around the 20<sup>th</sup> century. Luther is said to have compared instruments
+to the worship of Baal. Spurgeon was also opposed to their use. 
  
  
 #### History's Conclusion on the Matter
@@ -141,8 +145,8 @@ Moreover, it is abundantly clear God's pattern for worship was to be strictly fo
 exceptions. Notice Leviticus 10, Nadab and Abihu offered "strange or profane fires." The Hebrew word
 pronounced 'zer' translated "strange or profane" is usually translated "border," for example:
 
-> Ex. 37:11 And he overlaid it with pure gold, and made a **molding** of gold all around it. 12 Also he
-made a frame of a handbreadth all around it, and made a **molding** of gold for the frame all around it. 
+>  And he overlaid it with pure gold, and made a **molding** of gold all around it. 12 Also he
+made a frame of a handbreadth all around it, and made a **molding** of gold for the frame all around it (Exo 36:11-12; NKJV). 
 
 In both verses, "molding" is the same word used in the case of Nadab and Abihu's "strange fire."
 This translation suggests that they went outside of what God had commanded them. This is made even
@@ -158,8 +162,8 @@ In essence, the word used here suggests that the reason that this offering was "
 it was an addition to what God had already commanded! Though an understanding of the word serves us
 well in the pursuit of understanding what God requires in worship; one does not have to venture any
 further than what is said in the English translation. Notice, He clarifies **why** this offering was
-not pleasing to God, and it was because this was one "...which He had not commanded them." (Lev
-10:1). 
+not pleasing to God, and it was because this was one "...which He had not commanded them."
+(Leviticus 10:1). 
 
 So far, this article has established the fact that God demands His worshippers to worship according
 to what He has told them. In other words; He does not want more or less from His worshippers than
@@ -186,7 +190,7 @@ Moons, the Sabbaths, and the calling of assemblies— I cannot endure iniquity a
 
 Isaiah is very clear when he says: "Therefore the Lord said: 'Inasmuch as these people draw near with
 their mouths And honor Me with their lips, But have removed their hearts far from Me, And their fear
-toward Me is taught by the commandment of men,'" (Isaiah 29:13).
+toward Me is taught by the commandment of men,'" (Isaiah 29:13; NKJV).
 
 Studying God's expectation for His worshippers, particularly the Jewish worshippers, is indeed
 intriguing. The law sat clear boundaries to which the Hebrew had no right to add anything, nor take
@@ -196,9 +200,61 @@ His worshippers has not changed with the transition into the law of Christ.
 
 #### God's Expectation of Christian Worship in General Terms.
 
+The claim is often made, though usually stated directly; that the God of the Old Testament is
+different from the God of the New Testaments. The fear that we should have is that idea seems to
+have permeated the minds of the church. This article will not necessarily touch on the synonymous
+nature of God in the Old and New Testament, other than to state that God has the exact same general
+attitude toward worship. Along these lines, it also seems beneficial to note that worship denotes
+the idea of bowing down. In fact, according to Strong's Dictionary it probably also carries the idea
+of kissing as in a dog kissing its master's foot[^5].
+
+In the quest to understanding what is acceptable to God, notice first the comments Jesus made toward
+the Pharisees; during the *sermon on the mount*. Particularly, Jesus rebukes at least them for at
+least three of their practices. Namely; their alms-giving (Matthew 6:1-4), praying (Matthew 6:5-7), and
+fasting (Matthew 6:16-18). Each of these practices are admirable ways by which a person can show
+their devotion and "bow down" before God in humility. Nevertheless, their devotion was not accepted
+by God because of their hearts were far from Him; they were looking for the instant gratification
+of man's praise (John 12:43). In fact, Jesus applies a passage mentioned earlier to them:
+
+>    He answered and said to them, “Why do you also transgress the commandment of God because of your tradition? 4 For God commanded, saying, “Honor your father and your mother’; and, ‘He who curses father or mother, let him be put to death.’ 5 But you say, “Whoever says to his father or mother, ‘Whatever profit you might have received from me is a gift to God”— 6 then he need not honor his father or mother.’ Thus you have made the commandment of God of no effect by your tradition. 7 Hypocrites! Well did Isaiah prophesy about you, saying:
+8 	“These people draw near to Me with their mouth,
+	And honor Me with their lips,
+	But their heart is far from Me.
+9 	And in vain they worship Me,
+	Teaching as doctrines the commandments of men’ ” (Matthew 15:3-9; NKJV).
+	
+Primarily, the problem that the Pharisees had was with their hearts. They had the wrong attitude
+towards worship to God. Another time, Jesus rebuked them because though they were tithing a tenth of
+everything they owned; including the most insignificant spices in their spice cabinets, their hearts
+were still wrong (Matthew 23:23). Paul encapsulates this beautifully when he wrote: "And though I bestow
+all my goods to feed the poor, and though I give my body to be burned, but have not love, it profits
+me nothing" (1 Corinthians 13:3). 
+
+Another great example of God's attitude towards our worship can be read in John 4. Notice the
+question which this Samaritan woman asked: "Our fathers worshiped on this mountain, and
+you Jews say that in Jerusalem is the place where one ought to worship” (John 4:20; NKJV). Jesus
+responded to the question by noting that (as a Samaritan) she does not even know WHO she worships
+(John 4:22).  The Samaritans held to the Pentateuch, which meant they did worship YHWH, but they
+also worshipped pagan gods. Further, Jesus plainly states what God expects from those who worship
+Him:
+
+> But the hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for the Father is seeking such to worship Him. 24 God is Spirit, and those who worship Him must worship in spirit and truth” (John 4:23-24).  
+
+Essentially, this is exactly what God has always desired from His worshippers. This section of the
+article was meant to bring attention to this very fact. The reader might notices while searching
+through the Law, there were times that the Jews worshipped according to spirit - with their hearts,
+but not according to truth - God's word and vice versa. The same can be said when looking at the
+Pharisees against the Samaritan woman. There is no indication of a heart issue with the Samaritan of
+John 4; the contrary can easily be argued, but she and the other Samaritans struggled with the
+truth. Whereas, the Pharisees had the truth, with the wrong attitude. It is important to note that
+the depth of devotion seen by Pharisees was in essence, selfish. What they did, they did for the
+praise of man; which felt good for them.
+
+
 
 
  
+# Works Cited
  
 [^1]: Alexander of Clement; Instructor 2.8 
 
@@ -207,3 +263,7 @@ His worshippers has not changed with the transition into the law of Christ.
 [^3]: John Calvin, Calvin’s Commentaries (Complete), trans. John King; Accordance electronic ed. (Edinburgh: Calvin Translation Society, 1847), paragraph 13694.)
 
 [^4]: “Thayer’s Greek-English Lexicon of the New Testament,” Greek-English Lexicon of the New Testament, paragraph 2.
+
+[^5]: The full definition is: "from 4314 and a probable derivative of 2965 (meaning to kiss, like a dog
+licking his master’s hand); to fawn or crouch to, i.e. (literally or figuratively) prostrate oneself
+in homage (do reverence to, adore): — worship." Strong's Greek Dictionary of the New Testament, paragraph 1.
