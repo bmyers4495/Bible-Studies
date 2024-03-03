@@ -372,6 +372,25 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 	- Notice, most importantly, from where the increase comes!
 		- If we are doing what we need to do, God provides the increase
 		- Have we forgotten about God's providence?
+
+> [!bible]+ [John 4:39-42 - NKJV](https://bolls.life/NKJV/43/4/)
+>  <sup> 39 </sup>And many of the Samaritans of that city believed in Him because of the word of the woman who testified, “He told me all that I <i>ever</i> did.” <sup> 40 </sup>So when the Samaritans had come to Him, they urged Him to stay with them; and He stayed there two days. <sup> 41 </sup>And many more believed because of His own word. <sup> 42 </sup>Then they said to the woman, “Now we believe, not because of what you said, for we ourselves have heard <i>Him</i> and we know that this is indeed the Christ, the Savior of the world.”
+
+
+- Notice something we have pointed out from the the beginning; Jesus gave her a reason to believe
+	- Her faith was based on evidence (Heb 11:1)
+	- Richard Dawkins said: "_Faith is the great cop-out, the great excuse to evade the need to think and evaluate evidence. Faith is belief in spite of, even perhaps because of, the lack of evidence._"
+		- It is rhetorically valuable to change definitions of words to make your point
+		- This strategy is becoming increasingly clear by the fact that "Men" are now "able to get pregnant".
+		- Isaiah spoke to this group of people (Isa 5:20)
+- We already noted how significant it was that Jesus stopped and talked to the Samaritan woman!
+	- Now Him and His disciples are staying here for 2 days!
+	- They're teaching this group of people with whom the Jews would usually have nothing to do!
+- Verse 42 is the disciples carrying out Jesus' commands in the last section
+	- I think it is important we do not miss what Jesus seems to be communicating to them
+	- By this example, Jesus is telling His disciples that God is not a respecter of persons (Acts 10:34).
+
+--John4:
 # References
 
 >  [Psalm 32:6 - LXX](https://bolls.life/LXX/19/32/)
