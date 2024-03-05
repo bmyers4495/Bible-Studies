@@ -6,9 +6,9 @@ kindle-sync:
     Discoveries
   author: William Ramsay and Edward Andrews
   asin: B096W9YJMK
-  lastAnnotatedDate: '2024-02-02'
+  lastAnnotatedDate: '2024-02-22'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71EekrkltfS._SY160.jpg'
-  highlightsCount: 57
+  highlightsCount: 96
 ---
 # THE TRUSTWORTHINESS OF THE NEW TESTAMENT
 ## Metadata
@@ -197,5 +197,128 @@ This passage well illustrates the close relation between the pagan vows for salv
 
 ---
 As Professor Kennedy on p. 95 says “the hope of immortality is conveyed to their votaries through an elaborate ritual,” the center of which was formed by “grotesque myths” in which was “embodied the return to life of Osiris and Attis.” — location: [2450](kindle://book?action=open&asin=B096W9YJMK&location=2450) ^ref-49194
+
+---
+
+By the term Paulinism it is needful to explain that I mean Christianity as expressed by Paul to the Græco-Roman world—not a development out of the Teaching of Jesus, nor a superstructure built upon that Teaching, but the expression of it in a form which could be readily comprehended by his pagan hearers, and become vital and creative among them. — location: [2479](kindle://book?action=open&asin=B096W9YJMK&location=2479) ^ref-26966
+
+---
+Paul did not imitate any existing organism; he merely worked with the conceptions and used the forms of his age, adapting them to his purpose; and his successors developed them to new uses. — location: [2495](kindle://book?action=open&asin=B096W9YJMK&location=2495) ^ref-12710
+
+---
+Along with the religious conceptions and the organizing forms, Paul (and in much smaller degree the pre-Pauline teachers) adopted the names and words of existing society. He did not attempt to create a new Christian language:[1] such an attempt must have proved vain, and would have stultified itself: he must speak to his audiences in their own language if he wished to reach their heart.[2] But the already existing words he filled with a fuller and richer and more spiritual content.[3] — location: [2497](kindle://book?action=open&asin=B096W9YJMK&location=2497) ^ref-5607
+
+---
+The teaching of Paul remains always on a higher level than we can attain, and yet it is always in a degree intelligible and vitalizing even to the simplest religious heart; and there is a power in it that is even more effective and intelligible to the simple religious consciousness than to the complex theological mind. — location: [2506](kindle://book?action=open&asin=B096W9YJMK&location=2506) ^ref-21946
+
+---
+The regions where the new religion spread at first most rapidly were those where the people were becoming aware of the beauty of Greek letters and the grandeur of Roman government, where they were awaking from the stagnation and inertness of an Oriental people, and their minds were stirred and receptive of all new ideas, whether Greek philosophy or Jewish or Christian religion.[3] Here and always we find that the spread of Christianity was favored by intelligence and freedom of mind in those among whom it was first preached.[1] — location: [2518](kindle://book?action=open&asin=B096W9YJMK&location=2518) ^ref-29873
+
+---
+Papas literally means “father,” and this title was commonly applied to the supreme God in Asia Minor, especially in Bithynia and North Phrygia. It also was one of the commonest personal names all over Anatolia, especially in the less hellenized districts. The dedication then means “To Papas (the Father God), i.e. to Mên, Papas (the man) [for] the children’s salvation (makes, or pays) a vow.”[2] — location: [2567](kindle://book?action=open&asin=B096W9YJMK&location=2567) ^ref-8849
+
+---
+II. The following, found at Nakoleia, was copied by me in 1883:— Μπτρόφιλος ʼ[Ασ- κληπᾶ(ς) σὸν γυναι- κὶ Ἀμμίᾳ περὶ ἑαυτῶν κὲτῶν ἰδίων κὲτῶν κάρπων κὲτῆς κώ- μης σωτηρίας [Διὶ Βροντῶντι ε[ὐχήν Metrophilos son of Asklepas[2] with his wife Ammia for their own and their family’s and the crops’ and the vil- lage’s salvation to Zeus the Thunderer a vow. — location: [2584](kindle://book?action=open&asin=B096W9YJMK&location=2584) ^ref-57655
+
+Salvation prayer of pagans
+
+---
+society. In Phrygia the family unity even included the married sons with their wives: the “brides” (νύμφαι) were part of the household.[1] Hence the salvation is besought for the family as a whole; and, when the head of a household found salvation (as in the case of Lydia and the jailer at Philippi) the entire household shared in it, and if the salvation took a Christian form, they received baptism in a body. — location: [2603](kindle://book?action=open&asin=B096W9YJMK&location=2603) ^ref-17738
+
+---
+III. Another dedication found at Kuyujak, between Dorylaion and Nakoleia, was copied by Professor Sterrett in 1883. I have not seen the stone. Ξεῦνα Ἰάσονος σύνβιος περὶτῶ- ν ἰδίων σωτηρί- ας ΜηνὶΟὐρανί- ῳκὲ Ἀπόλλωνι εὐχήν Xeuna Jason’s wife on behalf of her family’s salvation to Mên the Heavenly (god) and Apollo a vow. — location: [2609](kindle://book?action=open&asin=B096W9YJMK&location=2609) ^ref-45838
+
+---
+Vows on behalf of the entire family, without the defining word “salvation,” are quite common.[1] As was said above, it may be assumed that the purpose of the vow in such cases is the “salvation” of the family. — location: [2630](kindle://book?action=open&asin=B096W9YJMK&location=2630) ^ref-17452
+
+---
+
+Μἐνανδρος Ἵππω- νος καὶ Ἀμειὰς Τεί- μωνι θρεπτῷ, καὶ Ἀπολλώνιος καὶ Διονύσιος συν- τρόφῳ ὑπὲρ τῶν εἰδιων Διῒ Βρον- τῶντι Menander son of Hipp- on and Amias to Ti mon their foster-child, and Apollonios and Dionysios to their foster brother on behalf or the family’s (salvation) to Zeus the Thunderer (a vow). — location: [2644](kindle://book?action=open&asin=B096W9YJMK&location=2644) ^ref-35938
+
+---
+It is remarkable that the idea of “Salvation” should be so closely connected with the making of the grave. Respect to the dead is a prayer for the whole family and its permanence and prosperity. The dead has gone to be a god with the gods; the tomb is his temple; and the worship of this new god is inaugurated with the grave and epitaph, which are the discharge of a vow to secure his blessing for the entire household. In the two dedications Timon the foundling is regarded as identified with Zeus the Thunderer and with Zeus of Dagoutta. — location: [2664](kindle://book?action=open&asin=B096W9YJMK&location=2664) ^ref-29328
+
+---
+From the beginning of its history Christianity was brought into the closest relations with the state and the religion of the Emperors. Paul obscurely hints at the worship of the reigning Emperor, “him that calls himself God,” and the dead Emperors in 2 Thessalonians 2:1–12. The Revelation of John is absorbed in the conflict against him that sits on the throne of Satan. After the time of Vespasian “a charge of Christianity was tested by calling on the accused to perform the ceremonies of loyalty and worship of the Emperors.”[1] From the beginning to the end of the contest with the State this worship of the Emperors was the immediate enemy of the Christians in a far more pressing way than the worship of Jupiter or the other gods. A few indulgent governors of provinces were willing to accept as the test of loyalty for accused Christians their oath by the salvation of the Emperor;[2] and even Tertullian permitted this oath to be taken by Christians.[3] — location: [2681](kindle://book?action=open&asin=B096W9YJMK&location=2681) ^ref-28248
+
+---
+Thus the vows for salvation of the Emperor illustrate the unity of the household, a feature so marked in Acts 16:15, 33, 1 Corinthians 16:15. They also show how closely the person of the Emperor was connected with the life and conduct of the people in the provinces, in the first place of the cultivators of the great estates, and in the second place of the ordinary provincials who came to imitate more and more the fashion that ruled on the estates. — location: [2710](kindle://book?action=open&asin=B096W9YJMK&location=2710) ^ref-53046
+
+---
+“For the fortune and victory and eternal continuance of our Lords and the salvation of his whole household the (association of coloni called) ‘Guest-friends of the Symbol’ dedicated a bronze (statue of) Fortune;” then follows a list of names and subscriptions with date by the secretary of the society.[1] This inscription was incised on the pedestal of the statue of Good Fortune, which was erected with the money contributed by the association of cultivators of the estates. An example of a similar dedication, erected by the city of Apollonia, is published on p. 44 above. Here the Emperor and his family, who are summed up as “our Lords,” are conjoined with the body of tenants (coloni). The latter are organized as a religious association uniting in the worship of the Lords Emperors. In this case the identification of the Imperial family as a whole with the gods of the association is unusually clear: the Imperial family is the divine family, the god, the goddess, and the child. — location: [2718](kindle://book?action=open&asin=B096W9YJMK&location=2718) ^ref-24052
+
+---
+No one could belong to it who did not worship the God-Emperor. Yet any Christian cultivator on the estate must necessarily be a member of the association. What then was to be done with such a disaffected colonus? — location: [2750](kindle://book?action=open&asin=B096W9YJMK&location=2750) ^ref-2244
+
+---
+The paternal government was “Salvation” in the estimate of the cultivators on the estates. It had its advantages. The Father God through his procurators protected his people, advised them, told them their duty, looked after peace and order, punished them for their faults, and in general made life easier for them. In the degeneration and growing disorganization of the Empire, freedom lost its charm, and gradually ceased. The freeman was more exposed to oppression and insult than the serf. He could not protect himself, while the serf had his master to protect him from some of the evils of life. — location: [2766](kindle://book?action=open&asin=B096W9YJMK&location=2766) ^ref-6888
+
+---
+The logical issue of the paternal system of government, as we see it fully carried out under the Roman Empire, was the negation of freedom. In its opposition to the Imperial policy the religion of Christ was the champion of freedom. — location: [2771](kindle://book?action=open&asin=B096W9YJMK&location=2771) ^ref-8520
+
+---
+The “Salvation” of Jesus and of Paul was freedom: the “Salvation” of the Imperial system was serfdom. — location: [2777](kindle://book?action=open&asin=B096W9YJMK&location=2777) ^ref-50400
+
+---
+A strong and general popular belief is a great power. The new idea as preached by the Apostles had this great power supporting it and pushing it forward. And there was no pretence on the side of the Apostles and of the Church. They felt and knew what a revolution they were making in the world. They saw with their own eyes that the souls and bodies of men were growing healthier around them; and they knew that the cause was simply and solely belief in the Jesus whom they were preaching. Their own faith was made stronger by those cures, as well as the faith and character of the people that were cured. — location: [2852](kindle://book?action=open&asin=B096W9YJMK&location=2852) ^ref-39684
+
+---
+The episode of the Ethiopian is an exception: this figure, in short, finds a place in Luke’s pages mainly for the purpose of bringing into relief the character and power and influence of Philip, and not as indicating an important direction in the growth of the new Faith towards the south. Such a story was not gathered from Philip himself, but from a warm admirer of Philip. Yet admiration does not affect the representation of the facts. The same limitation to Philip’s power is observable here as at Samaria. Philip can only baptize; his influence does not carry with it the gift of the Spirit. — location: [2877](kindle://book?action=open&asin=B096W9YJMK&location=2877) ^ref-26518
+
+---
+The writer’s view is that Luke has always a definite purpose in mentioning any individual—a purpose bearing on the plan of his history, and not a mere desire for literary effect. — location: [2912](kindle://book?action=open&asin=B096W9YJMK&location=2912) ^ref-17667
+
+---
+
+The historian caught the idea as it was still fresh and young and living in the hearts and lives of eyewitnesses, and it lives for us in his pages. This gives a unique value to both the Gospel and the Acts. — location: [3080](kindle://book?action=open&asin=B096W9YJMK&location=3080) ^ref-44405
+
+---
+A number of the German critics, followed by many outside of Germany, used until recently to say without hesitation that Augustus never issued any decree ordering a census, that there never was under the Empire any regular system of census, that where any casual census was held the presence of the wife was not required but only of the husband, and that his presence was never required at his original home. — location: [3128](kindle://book?action=open&asin=B096W9YJMK&location=3128) ^ref-24370
+
+---
+The reason for that feeling of triumph on the part of many critics lay of course in the desire to discredit the superhuman element in the history. — location: [3134](kindle://book?action=open&asin=B096W9YJMK&location=3134) ^ref-44007
+
+---
+Further, in respect of the dating by the governorship of Quirinius, it was asserted by a large number of critics, (1) that Quirinius never governed Syria until a.d. 5–6, nine years after the death of Herod, and (2) that the census which he then made in Palestine was transferred by Luke’s simple blundering to the reign of Herod, who died in 4 B.C. Then, when this transference had been made in defiance of historical truth, the circumstances and manner of a Roman census (which as a matter of fact were unknown to the critics) were manipulated and misrepresented by Luke so as to make it appear that Joseph of Nazareth came to Bethlehem to be counted (which there was no need for him to do), and that Mary also came to be counted (although, even if her husband had for some reason been required to appear at Bethlehem, there was no possible cause why her presence should also be called for). — location: [3136](kindle://book?action=open&asin=B096W9YJMK&location=3136) ^ref-26698
+
+---
+This knowledge cannot be proved by mere verbal argument. It is not in word, but in power. It does not spring from any more fundamental principle. It is the fountain from which all other so-called principles flow. It is the guarantee of all other truth. There is nothing true without God; and there is nothing true except the Divine in the infinite variety of His manifestation. — location: [3290](kindle://book?action=open&asin=B096W9YJMK&location=3290) ^ref-11605
+
+---
+The interval between the enrolments could not be recovered from the scattered references to a census. One in a.d. 35 has been already mentioned in the previous chapter. The one mentioned by Pliny occurred in 48 apparently.[1] Tacitus mentions a census held in the provinces of Gaul at the end of the events of a.d. 61. Vespasian and Titus were censors in 73–74. We now see that these correspond in a loose way to the census periods of a.d. 34, 48, 62 and 76; but the correspondence is inexact. — location: [3341](kindle://book?action=open&asin=B096W9YJMK&location=3341) ^ref-57535
+
+---
+If Tertullian had only the authority of Luke to rest on, it is inconceivable that he could have named Sentius as the officer that made the census, for he regarded Luke as a perfect authority. He therefore had access to another good authority. — location: [3381](kindle://book?action=open&asin=B096W9YJMK&location=3381) ^ref-25469
+
+---
+The fashionable theory implies further that Luke invented, not merely one world-wide Augustan census under Herod, but also the idea of a series of enrolments, of which this was the first. — location: [3493](kindle://book?action=open&asin=B096W9YJMK&location=3493) ^ref-23560
+
+---
+From a fair, unprejudiced and rational consideration of the evidence of Luke, Pliny, Tacitus, Clement and Tertullian, we conclude that the statements of Luke are all probable in themselves, and that the theory either of invention or of stupid error on his part is unreasonable and unjustifiable. — location: [3505](kindle://book?action=open&asin=B096W9YJMK&location=3505) ^ref-3325
+
+---
+The error was not due to doubt about the accuracy of Luke, but simply to ignorance of the Roman custom, which had not become known. — location: [3621](kindle://book?action=open&asin=B096W9YJMK&location=3621) ^ref-26785
+
+---
+We now know that the regulation mentioned by Luke was the customary Roman method of making the census. This is a noteworthy fact, and opens up a great vista of history. — location: [3626](kindle://book?action=open&asin=B096W9YJMK&location=3626) ^ref-16851
+
+---
+Such was the custom of the census at a later period after Luke was dead. It is clear that, if he was inventing this general order, he like a prophet described exactly what was going to be the method at a later time. Such an idea is absurd! It is beyond doubt or dispute that he was describing the method of the periodic census, as he knew it in regular practice. — location: [3668](kindle://book?action=open&asin=B096W9YJMK&location=3668) ^ref-4789
+
+---
+Accordingly Rostowzew[1] infers without any hesitation from Luke that “already in the beginning of the Imperial period all people, whether inhabitants of cities or of villages, were summoned to return to their proper domicile (ἰδία) for the census exactly as was customary in Egypt.” He considers Luke’s words a sufficient proof that this was the general Augustan rule. — location: [3676](kindle://book?action=open&asin=B096W9YJMK&location=3676) ^ref-65428
+
+---
+
+Education overcomes this tendency; and through the growing power of education dislike and distrust of the stranger grows rarer and weaker and disguises itself under the form of patriotism or otherwise. — location: [3748](kindle://book?action=open&asin=B096W9YJMK&location=3748) ^ref-32980
+
+---
+Wilcken has observed another important feature of the Household enrolment. Not merely were written census returns handed in; but the entire population had to present themselves personally for inspection. This he infers from a passage in a London Papyrus with practical certainty, and rightly calls it a very important point.[1] “Accordingly,” as he says, “Joseph and Mary in the legend of Luke must both go to Bethlehem.” The argument which Wilcken has in mind is that Luke, who knew this regulation to hold in every census, invented this detail regarding the journey of Mary in order to be true to the custom. Luke’s narrative used to be called a legend, because it was historically false. Now it is called by Wilcken a legend because every detail has been demonstrated to be exactly correct. There is no way of satisfying those people who have made up their minds. — location: [3780](kindle://book?action=open&asin=B096W9YJMK&location=3780) ^ref-48830
+
+---
+The critics ridiculed the story of the journey, because it was absurd and inconceivable that Joseph should be called to his original home for enrolment. It is now known that this order to return to the home was regularly issued and enforced. — location: [3790](kindle://book?action=open&asin=B096W9YJMK&location=3790) ^ref-56317
+
+---
+The critics ridiculed the idea that Mary should have to return to the home, even if by any chance Joseph had to do so. The head of the house was sufficient. Wilcken has shown that every member of the household had to be present for enrolment, and that therefore Mary would have to go with Joseph. The only inference which he draws from this is that the legend arose out of the law and practice. — location: [3793](kindle://book?action=open&asin=B096W9YJMK&location=3793) ^ref-19378
 
 ---

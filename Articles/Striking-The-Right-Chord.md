@@ -3,19 +3,6 @@
 
 
 
-### Introduction
-
-In the pursuit of understanding and embodying Christian worship, believers often grapple with the
-question of instrumental music in their worship services. "Striking the Right Chord" delves into
-this intricate topic, presenting a thorough exploration of the historical context and perspectives
-surrounding the use of mechanical instruments in Christian worship. Grounded in biblical principles
-and historical insights, this article challenges preconceived notions, encouraging readers to
-reevaluate the assumed universality of instrumental music in worship. Join us on a journey through
-the pages of history and theology as we unravel the origins, objections, and complexities of this
-practice, aiming to shed light on a nuanced aspect of Christian worship that warrants careful
-consideration and understanding.
-
-
 
 ### The History of the Instrument in Worship
 
@@ -25,15 +12,14 @@ valuable to understand the origins of this practice. At the heart of every pract
 lies a long history of debates amongst theologians, and this topic is no different.
 
 From a historical perspective, the fundamental question to be asked is: "Did the early church
-practice this thing?" It's important to note that this article does not presuppose the authority of
+practice this thing?" It's important to note that we will not presuppose the authority of
 example; that issue will be examined further in this study.
 
 The simple answer to the question of whether the early church used instrumental music is no. A
 straightforward piece of evidence for this historical fact is that acapella translates literally to
 "in the style of the chapel." Additionally, examining the historic writings of the "church fathers"
-(2nd century Christian writers) reveals that they did not unanimously agree on every issue. While
-their writings are not inspired, from a historical viewpoint, we can ascertain exactly what they
-practiced.
+(2nd century Christian writers) reveals that they certainly had no such practice. While
+their writings are not inspired, they do give us insight on how they understood the text.
 
 Although the church fathers did not agree on all issues, those who wrote about the use of
 instrumental music unanimously condemned it as something that should not be practiced. This
@@ -65,9 +51,8 @@ primarily with Paganism. Regarding the stringed instruments in worship, he wrote
  more suitable to beasts than men, and the more irrational portion of mankind.[^1] 
  
 He is plainly arguing that from his perspective, instrumental music is for the Pagan, not for
-worshippers of YHWH. It is important to note this argument, because it is a commonly assertion used
-by many of the early Christians against the instrument in worship, and this article will
-eventually elaborate on this case. In the same chapter, Clement writes:
+worshippers of YHWH. It is important to note this argument, because it is a common assertion used
+by early Christians against the instrument in worship, and we will delve deeper into this argrument. In the same chapter, Clement writes:
 
 > In their wars, therefore, the Etruscans use the trumpet, the Arcadians the pipe, the Sicilians the
 pectides, the Cretans the lyre, the Lacedæmonians the flute, the Thracians the horn, the Egyptians
@@ -125,15 +110,15 @@ Father.
 
 Paul wrote "whatever things were written before were written for our learning..." (Romans 15:4a)
 speaking about the old law. There are many things that one can learn from the old law including:
-what sin is, the genealogy of the Messiah, why we needed a messiah in the first place, and also the
-nature of God. If God is always the same (Malachi 3:6, James 1:17), one might expect to see God's
-attitude toward worship in the old law.
+what sin is, the genealogy of the Messiah, why we needed a Messiah in the first place, and also the
+nature of God. 
 
-Throughout the law and the prophets, **worship was of utmost importance**. In fact, the whole book
-of Leviticus is dedicated to the tribe of Levite - the priestly tribe (Deut 21:5). This book which
-is separated into 27 chapters in the English bible includes very specific laws regarding how they
-were to worship, how the priests were to prepare for the rites mentioned [ie sacrifices], as well as
-examples of worship that was not pleasing to God. 
+If God is always the same (Malachi 3:6, James 1:17), one might expect to see God's Throughout the
+law and the prophets, **worship was of utmost importance**. In fact, the whole book of Leviticus is
+dedicated to the tribe of Levite - the priestly tribe (Deut 21:5). This book which is separated into
+27 chapters in the English bible includes very specific laws regarding how they were to worship, how
+the priests were to prepare for the rites mentioned [ie sacrifices], as well as examples of worship
+that was not pleasing to God. 
 
 Whilst reading through the book of Leviticus, it becomes utterly clear that God demanded very
 specific tasks in worship toward Him. For example, Leviticus 3 details how a peace offering was to
@@ -160,7 +145,7 @@ saying:
  
 In essence, the word used here suggests that the reason that this offering was "profane" is because
 it was an addition to what God had already commanded! Though an understanding of the word serves us
-well in the pursuit of understanding what God requires in worship; one does not have to venture any
+well in the pursuit of understanding what God requires in worship; we do not have to venture any
 further than what is said in the English translation. Notice, He clarifies **why** this offering was
 not pleasing to God, and it was because this was one "...which He had not commanded them."
 (Leviticus 10:1). 
@@ -200,13 +185,13 @@ His worshippers has not changed with the transition into the law of Christ.
 
 #### God's Expectation of Christian Worship in General Terms.
 
-The claim is often made, though usually stated directly; that the God of the Old Testament is
-different from the God of the New Testaments. The fear that we should have is that idea seems to
-have permeated the minds of the church. This article will not necessarily touch on the synonymous
-nature of God in the Old and New Testament, other than to state that God has the exact same general
-attitude toward worship. Along these lines, it also seems beneficial to note that worship denotes
-the idea of bowing down. In fact, according to Strong's Dictionary it probably also carries the idea
-of kissing as in a dog kissing its master's foot[^5].
+The claim is often made that the God of the Old Testament is different from the God of the New
+Testaments.  The fear that we should have is that idea seems to have permeated the minds of the
+church.  We will not necessarily touch on the synonymous nature of God in the Old and New Testament,
+other than to state that God has the exact same general attitude toward worship. Along these lines,
+it also seems beneficial to note that worship denotes the idea of bowing down. In fact, according to
+Strong's Dictionary it probably also carries the idea of kissing as in a dog kissing its master's
+foot[^5].
 
 In the quest to understanding what is acceptable to God, notice first the comments Jesus made toward
 the Pharisees; during the *sermon on the mount*. Particularly, Jesus rebukes at least them for at
@@ -228,7 +213,7 @@ towards worship to God. Another time, Jesus rebuked them because though they wer
 everything they owned; including the most insignificant spices in their spice cabinets, their hearts
 were still wrong (Matthew 23:23). Paul encapsulates this beautifully when he wrote: "And though I bestow
 all my goods to feed the poor, and though I give my body to be burned, but have not love, it profits
-me nothing" (1 Corinthians 13:3). 
+me nothing" (1 Corinthians 13:3; NKJV). 
 
 Another great example of God's attitude towards our worship can be read in John 4. Notice the
 question which this Samaritan woman asked: "Our fathers worshiped on this mountain, and
@@ -250,9 +235,7 @@ truth. Whereas, the Pharisees had the truth, with the wrong attitude. It is impo
 the depth of devotion seen by Pharisees was in essence, selfish. What they did, they did for the
 praise of man; which felt good for them.
 
-
-
-
+### 
  
 # Works Cited
  
