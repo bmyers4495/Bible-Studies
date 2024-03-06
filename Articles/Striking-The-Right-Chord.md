@@ -2,7 +2,17 @@
 ## A Biblical Perspective on Instrumental-Free Worship
 
 
+### Introduction
 
+Amongst the important discussions in which Christians should engage would be a discussion of
+worship. It seems in more recent years this discussion has been put on the way side and the view of
+worship within Christendom has suffered because of it. The intent of this little booklet is not to
+be argumentative or to "prove" anyone wrong, necessarily. Rather, it is plea for those that would
+consider themselves disciples of Christ to return to the unity of the apostles doctrine regarding
+Christian worship and particularly our worship through singing. Paul taught "Therefore do not be
+unwise, but understand what the will of the Lord is" (Ephesians 5:17) and it is this author's view
+that the modern Christian should be constantly growing in wisdom and understanding of the will of
+the Lord!
 
 ### The History of the Instrument in Worship
 
@@ -373,6 +383,23 @@ rebukes partaking in their practices in the same context (1 Corinthians 10:14-17
 Paul was not dealing with a matter of worship at all, rather cultural implications of an action;
 namely eating meat that has been offered to idols. Moreover, this idea falls flat when considering
 that Paul is dealing with instruments in worship.
+
+
+### Conclusion
+
+It is important to emphasize that this study is not meant to be divisive! Jesus plead with the
+Father that His followers be one (John 17:20, 21). Just prior to this, He prayed that they be
+"sanctified by" God's truth (John 17:17). Jesus prayed for unity in God's word, not in man's
+inventions! So, the purpose of this study was to search the Scriptures to see what His truth is
+regarding instrumental music and hopefully that those who engage can find unity in God's truth. 
+
+This booklet explored this classical Christian view on instrument to make the point that the worship
+climate within contemporary Christendom has not always been accepted and should at very least raise
+questions. Further, the reader delved into a study of God's expectation and attitude towards
+worship; that man should worship in spirit and truth (John 4:24). Finally, this booklet examined
+what Paul meant when he wrote to "sing" (Ephesian 5:19; Colossians 3:16). It is this authors prayer
+that the reader would diligently study this as commanded in 2 Timothy 2:15 and consider the
+Scriptural case against the instrument!
 
 
 # Works Cited
