@@ -52,7 +52,7 @@ primarily with Paganism. Regarding the stringed instruments in worship, he wrote
  
 He is plainly arguing that from his perspective, instrumental music is for the Pagan, not for
 worshippers of YHWH. It is important to note this argument, because it is a common assertion used
-by early Christians against the instrument in worship, and we will delve deeper into this argrument. In the same chapter, Clement writes:
+by early Christians against the instrument in worship, and we will delve deeper into this argument. In the same chapter, Clement writes:
 
 > In their wars, therefore, the Etruscans use the trumpet, the Arcadians the pipe, the Sicilians the
 pectides, the Cretans the lyre, the Lacedæmonians the flute, the Thracians the horn, the Egyptians
@@ -71,7 +71,7 @@ The early Christians did not often deal with this issue as it was not an issue. 
 the use of instrument in Christian worship was not an issue until the seventh century. However, when
 they do write about the use of instruments; they are clearly against its use. When discussing the
 psalms, they would even allegories David's use of the instrument to teach that our instrument is
-that of the heart citing Ephesians 5:19. Again, keep this in mind; this article will return to this
+that of the heart citing Ephesians 5:19. Again, keep this in mind; this booklet will return to this
 argument.
 
 #### Denominational Fathers and the Instrument
@@ -150,7 +150,7 @@ further than what is said in the English translation. Notice, He clarifies **why
 not pleasing to God, and it was because this was one "...which He had not commanded them."
 (Leviticus 10:1). 
 
-So far, this article has established the fact that God demands His worshippers to worship according
+So far, this booklet has established the fact that God demands His worshippers to worship according
 to what He has told them. In other words; He does not want more or less from His worshippers than
 that which He has commanded. However, a discussion on God's desires in worship would be incomplete
 the heart of the worshipper is not discussed. 
@@ -180,7 +180,7 @@ toward Me is taught by the commandment of men,'" (Isaiah 29:13; NKJV).
 Studying God's expectation for His worshippers, particularly the Jewish worshippers, is indeed
 intriguing. The law sat clear boundaries to which the Hebrew had no right to add anything, nor take
 anything away (Deut 4:2). Moreover, God desires His worshippers to have the right heart whilst
-performing the correct actions. The assertion that this article will make is that God's desire for
+performing the correct actions. The assertion that this booklet will make is that God's desire for
 His worshippers has not changed with the transition into the law of Christ.
 
 #### God's Expectation of Christian Worship in General Terms.
@@ -226,7 +226,7 @@ Him:
 > But the hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for the Father is seeking such to worship Him. 24 God is Spirit, and those who worship Him must worship in spirit and truth” (John 4:23-24).  
 
 Essentially, this is exactly what God has always desired from His worshippers. This section of the
-article was meant to bring attention to this very fact. The reader might notices while searching
+booklet was meant to bring attention to this very fact. The reader might notices while searching
 through the Law, there were times that the Jews worshipped according to spirit - with their hearts,
 but not according to truth - God's word and vice versa. The same can be said when looking at the
 Pharisees against the Samaritan woman. There is no indication of a heart issue with the Samaritan of
@@ -235,8 +235,146 @@ truth. Whereas, the Pharisees had the truth, with the wrong attitude. It is impo
 the depth of devotion seen by Pharisees was in essence, selfish. What they did, they did for the
 praise of man; which felt good for them.
 
-### 
+### The Instrument and the Church
+
+This booklet will not address every defense of or argument for the use of the instrument in worship.
+Rather, it seems much more beneficial to dig into what God says He desires in Christian worship. So,
+this final section will apply what the previous sections have established to determine what God
+desires from His worshippers today. 
+
+#### Instruments and Biblical Worship Compatibility
+
+As it was noted in the previous section, God has clear expectations for His worshippers. Jesus'
+assertion that true worshippers worship in spirit and truth is not something that was only
+applicable to the law of Christ, but also His worshippers during the time of Moses' law. The wise
+student of God's word would look toward the principles which God has declared regarding worship. 
+
+It is important to note God's explicit commands to sing. Paul wrote about this topic on two
+occasions:
+
+> Let the word of Christ dwell in you richly in all wisdom, teaching and admonishing one another in
+psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord (Col 3:15)
+
+> speaking to one another in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord, (Eph 5:19)
+
+Consider how use of the instrument compares to Nadab and Abihu's sin. Notice in both of these
+passage, singing is the commandment. Paul even answers the "how" we are to sing when he says "with
+grace or melody in your hearts." It is without a doubt, by definition, an addition to the formula
+that God has ascribed, when the instrument is added. Nadab and Abihu's worship was not pleasing to
+God because what they offered was not commanded of by God; it was profane - outside of God's law.
+Similarly, the instrument is outside of God's commands - profane.
+
+With this acknowledgement, there are other issues with which the student of the Bible must deal. For
+example, if it is sinful to use instruments because they add to what God has commanded, would that
+also require that microphones, pitch pipes, etc. be excluded from Christian worship? First, it is
+important to notice that if this were true; the logical conclusion would be to get rid of the
+microphone, not to bring in the instrument! However,  It is this writer's contention that these are
+expediencies that do not add to what God has commanded in the same way that the instrument does. Notice
+when one uses the instrument while singing, there are two verbs; two things that they are doing.
+They are singing and they are playing. When one is singing into the microphone, however, they are
+only singing! 
+
+Further, it might be argued that the use of instrument is indicative of the wrong attitude or
+"spirit" in worship. Jesus often rebuked the Pharisees for their attitude towards devotion to God.
+Their motivation was to be seen of man (Matthew 23:5), but on a deeper level; it was out of
+selfishness. In other words, they were practicing these things to be seen of men, which made them
+feel better. In their hearts; devotion towards God was about pleasing their own desires to be seen
+by men. It is not trivial to ask "why use an instrument in the first place?" If the answer to that
+question has anything to do with how one feels, there might be a need to check his priorities. The
+question that must be answered is: "do I worship for me or for God?"
+
+While strictly observing God's attitude towards man's worship, it is evident that God is not pleased
+with instrumental music in worship. The addition of the instrument is very comparable to Nadab and
+Abihu's use of the "profane" fire "which God did not command" (Leviticus 10:1) in that it is a clear
+addition to God's worship. For the sake of further elaboration it is important to understand the
+purpose of Paul's writing what he did in Ephesians 5:19 and Colossians 3:16 in the context of the
+early church.
+
+#### The Early Church and Instruments
+
+It is important to not completely disregard one important historical observation, and that is the
+fact that the early church did not use instrument! This fact carries even more weight when one
+considers the fact that prior to becoming a Christian, they would have certainly have no problem
+with instrumental music. If they were Jewish, they would have used instruments as David did and if
+they came from paganism, they would have certainly used instruments in their banquets in worship to
+their gods. 
+
+The question is: "why would they not use the instrument?" There are some who have speculated reasons
+that they might have stopped. The contention that will be presented here is they stopped using thing
+instrument in worship is a result of spending time in the apostles' doctrine (Acts 2:42). Instead of
+speculating one way or another, what if it could be proven that they understood the apostles to be
+preaching against such practices?
+
+Notice the context of Ephesians 5:19. The chapter begins with a very clear contrast between how the
+Christianity and paganism:
+
+> But fornication and all uncleanness or covetousness, let it not even be named among you, as is
+ fitting for saints; 4 neither filthiness, nor foolish talking, nor coarse jesting, which are not
+ fitting, but rather giving of thanks. 5 For this you know, that no fornicator, unclean person, nor
+ covetous man, who is an idolater, has any inheritance in the kingdom of Christ and God. 6 Let no
+ one deceive you with empty words, for because of these things the wrath of God comes upon the sons
+ of disobedience. 7 Therefore do not be partakers with them (Ephesians 5:3-7).
  
+ All of the things listed here are things which the pagans practiced, and Paul is telling the church
+ - many of whom converted from paganism - to not be involved with these practices anymore.  Further,
+ one could deduce from historical knowledge and the rest of Ephesians that paganism was a huge issue
+ in Ephesus. There is a rich history between the city of Ephesus and the goddess Artemis (Diana
+ according to the Romans) As the chapter progresses; Paul makes it clear that they used to practice
+ these things when he says "For you were once darkness, but now you are in the light of the
+ lord" (v8). Further, Paul tells them to not walk as "fools, but as wise" (v15). With the context in
+ mind; it is not a stretch to say Paul is implying that the practices of the pagans were foolish. 
+ 
+ This is the context of the passage in question; namely Ephesians 5:18, 19. If the rest of the
+ context is a refutation against paganism, this should be as well. One other thing to notice is
+ that these to verses are one connected thought, not two separate ideas. The former pagans to whom
+ Paul was writing would have understood why this was a singular thought. The pagans had
+ several practices that in some ways paralleled Christian worship. For example, Paul taught that one could not
+ partake of the Lord's Supper while at the same time joining the pagan feasts (1 Cor 10:14-22).
+ Similarly, in the text at hand, Paul is contrasting Christian worship with pagan worship. The
+ pagan's worship consisted of drunken feasts and hymns to their gods sang with the lute and harp.
+ 
+ One further fact that the Bible student should consider is the what it means to have "melody in
+ your heart." Interestingly enough, that word melody carries the idea of plucking as one plucks the
+ strings of a harp, for example[^6]. Some have argued in the past that one could not "psallo"
+ without an instrument, but this interpretation hardly fits into the context of Paul's writing here.
+
+When looking at this passage in its intended context; as contrasting Christian practices with pagan
+practices, notice how it reads. Paul's message to them is instead of being a part of drunken
+banquets like the pagans, be full of the holy spirit; and in contrast with the practice of plucking
+the lute or harp, the Christian ought to pluck his heart strings when he sings psalms, hymns, and
+spiritual song to God. With the full context, it is clear that Paul is actually specifically
+addressing the practice of the use of musical instruments in worship. 
+
+This interpretation of Paul's intentions is supported by what was discussed in the first section
+with the second century Christians. The early Christians, some of whom were also converts from
+paganism, understood this to be a contrast between pagan worship and Christian worship. Thus, the
+reason for their not using the instrument is evident through internal reading as well as external
+historical writings. The reason they did not practice the use of instrumental music in the first
+century was simply because they were following the doctrine of the apostles!
+
+#### Instrument Use and Christian Liberties
+
+To dispel the temptation to conflate Christian liberties with the use of instrument, this booklet
+will preemptively examine some false comparisons that will almost certainly be made. Paul discusses
+matters of Christian liberty recorded for the bible student in Romans 14 and 1 Corinthians 10.
+Specifically, he discusses the practice of eating meat from the market place that might have been a
+result of sacrifice to pagan gods. Indeed in both passages Paul is clear that the idol is nothing
+and as such, it is not inherently sinful to eat meat that has been offered to idols; but rather
+consider the impact that action will have on other. He says:
+
+> "All things are lawful for me, but not all things are helpful; all things are lawful for me, but not all things edify. 24 Let no one seek his own, but each one the other’s well-being" (1 Cor 10:23-24).
+ 
+So the contention would be that the issue of instrumental music would be an issue of Christian
+liberties/scruples.
+
+It is important to note, when Paul "okays" the eating of meat offered to idols, he does not justify
+worship of these pagan gods; on the contrary. As it this booklet has already noted, Paul clearly
+rebukes partaking in their practices in the same context (1 Corinthians 10:14-17). The fact is that
+Paul was not dealing with a matter of worship at all, rather cultural implications of an action;
+namely eating meat that has been offered to idols. Moreover, this idea falls flat when considering
+that Paul is dealing with instruments in worship.
+
+
 # Works Cited
  
 [^1]: Alexander of Clement; Instructor 2.8 
@@ -249,4 +387,6 @@ praise of man; which felt good for them.
 
 [^5]: The full definition is: "from 4314 and a probable derivative of 2965 (meaning to kiss, like a dog
 licking his master’s hand); to fawn or crouch to, i.e. (literally or figuratively) prostrate oneself
-in homage (do reverence to, adore): — worship." Strong's Greek Dictionary of the New Testament, paragraph 1.
+in homage (do reverence to, adore): — worship." Strong's Greek Dictionary of the New Testament.
+
+[^6]: ψάλλω psallo, psal´-lo; probably strengthened from ψάω psao (to rub or touch the surface; compare 5597); to twitch or twang, i.e. to play on a stringed instrument (celebrate the divine worship with music and accompanying odes). Strong's Greek Dictionary of the New Testament 
