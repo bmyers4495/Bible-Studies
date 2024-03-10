@@ -390,7 +390,23 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 	- I think it is important we do not miss what Jesus seems to be communicating to them
 	- By this example, Jesus is telling His disciples that God is not a respecter of persons (Acts 10:34).
 
---John4:
+> [!bible]+ [John 4:43-47 - NKJV](https://bolls.life/NKJV/43/4/)
+>  <sup> 43 </sup>Now after the two days He departed from there and went to Galilee. <sup> 44 </sup>For Jesus Himself testified that a prophet has no honor in his own country. <sup> 45 </sup>So when He came to Galilee, the Galileans received Him, having seen all the things He did in Jerusalem at the feast; for they also had gone to the feast. <sup> 46 </sup>So Jesus came again to Cana of Galilee where He had made the water wine. And there was a certain nobleman whose son was sick at Capernaum. <sup> 47 </sup>When he heard that Jesus had come out of Judea into Galilee, he went to Him and implored Him to come down and heal his son, for he was at the point of death.
+
+
+- John does not give the fullest picture of this proverb in verse 45
+	- Luke 4:24-27 gives examples of this proverb.
+		- Elijah was sent to a widow in Zarepath (1 Kings 17:8-16)
+		- Naaman was the only leper healed by Elisha (2 Kings 5) and he was a Syrian
+	- Matthew 13:53-58 explains exactly what happened in Nazareth
+	- When these three passages are put together it makes a little more sense
+		-  He did not stay long and perform many great works in Nazareth.
+		- The reason he did not do these things is because He knew that they would not follow Him
+- So instead of spending too much time amongst his own people, he revisited Cana (cf John 2)
+	- They were still talking about what Jesus had done the last time, and it seems that news had spread.
+	- The nobleman, for example, had heard about the Christ and how He performed the miracle at the wedding feast.
+	- His thought was: If Jesus can do the miracle of turning water to wine, maybe He could heal my son.
+- 
 # References
 
 >  [Psalm 32:6 - LXX](https://bolls.life/LXX/19/32/)
