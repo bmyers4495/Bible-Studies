@@ -332,7 +332,7 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 - Upon arrival, his disciples were shocked.
 
 > [!bible]+ [John 4:28-30 - NKJV](https://bolls.life/NKJV/43/4/)
->  <sup> 28 </sup>The woman then left her waterpot, went her way into the city, and said to the men, <sup> 29 </sup>“Come, see a Man who told me all things that I ever did. Could this be the Christ?” <sup> 30 </sup>Then they went out of the city and came to Him.
+>  <sup> 28 </sup>The woman then left her water pot, went her way into the city, and said to the men, <sup> 29 </sup>“Come, see a Man who told me all things that I ever did. Could this be the Christ?” <sup> 30 </sup>Then they went out of the city and came to Him.
 
 - This is evangelism!
 	- She understood exactly what Jesus was teaching
@@ -377,7 +377,7 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 >  <sup> 39 </sup>And many of the Samaritans of that city believed in Him because of the word of the woman who testified, “He told me all that I <i>ever</i> did.” <sup> 40 </sup>So when the Samaritans had come to Him, they urged Him to stay with them; and He stayed there two days. <sup> 41 </sup>And many more believed because of His own word. <sup> 42 </sup>Then they said to the woman, “Now we believe, not because of what you said, for we ourselves have heard <i>Him</i> and we know that this is indeed the Christ, the Savior of the world.”
 
 
-- Notice something we have pointed out from the the beginning; Jesus gave her a reason to believe
+- Notice something we have pointed out from the beginning; Jesus gave her a reason to believe
 	- Her faith was based on evidence (Heb 11:1)
 	- Richard Dawkins said: "_Faith is the great cop-out, the great excuse to evade the need to think and evaluate evidence. Faith is belief in spite of, even perhaps because of, the lack of evidence._"
 		- It is rhetorically valuable to change definitions of words to make your point
@@ -416,7 +416,7 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 >  <sup> 1 </sup>The hand of the LORD came upon me and brought me out in the Spirit of the LORD, and set me down in the midst of the valley; and it <i>was</i> full of bones. <sup> 2 </sup>Then He caused me to pass by them all around, and behold, <i>there</i> <i>were</i> very many in the open valley; and indeed <i>they</i> <i>were</i> very dry. <sup> 3 </sup>And He said to me, “Son of man, can these bones live?” So I answered, “O Lord GOD, You know.” <sup> 4 </sup>Again He said to me, “Prophesy to these bones, and say to them, ‘O dry bones, hear the word of the LORD! <sup> 5 </sup>Thus says the Lord GOD to these bones: “Surely I will cause breath to enter into you, and you shall live. <sup> 6 </sup>I will put sinews on you and bring flesh upon you, cover you with skin and put breath in you; and you shall live. Then you shall know that I <i>am</i> the LORD.” ’ ” <sup> 7 </sup>So I prophesied as I was commanded; and as I prophesied, there was a noise, and suddenly a rattling; and the bones came together, bone to bone. <sup> 8 </sup>Indeed, as I looked, the sinews and the flesh came upon them, and the skin covered them over; but <i>there</i> <i>was</i> no breath in them. <sup> 9 </sup>Also He said to me, “Prophesy to the breath, prophesy, son of man, and say to the breath, ‘Thus says the Lord GOD: “Come from the four winds, O breath, and breathe on these slain, that they may live.” ’ ” <sup> 10 </sup>So I prophesied as He commanded me, and breath came into them, and they lived, and stood upon their feet, an exceedingly great army. <sup> 11 </sup>Then He said to me, “Son of man, these bones are the whole house of Israel. They indeed say, ‘Our bones are dry, our hope is lost, and we ourselves are cut off!’ <sup> 12 </sup>Therefore prophesy and say to them, ‘Thus says the Lord GOD: “Behold, O My people, I will open your graves and cause you to come up from your graves, and bring you into the land of Israel. <sup> 13 </sup>Then you shall know that I <i>am</i> the LORD, when I have opened your graves, O My people, and brought you up from your graves. <sup> 14 </sup>I will put My Spirit in you, and you shall live, and I will place you in your own land. Then you shall know that I, the LORD, have spoken <i>it</i> and performed <i>it,</i>” says the LORD.’ ”
 
 >  [Matthew 7:16 - NKJV](https://bolls.life/NKJV/40/7/)
->  <sup> 16 </sup>You will know them by their fruits.  Do men gather grapes from thornbushes or figs from thistles?
+>  <sup> 16 </sup>You will know them by their fruits.  Do men gather grapes from thorn bushes or figs from thistles?
 
 >  [Matthew 7:20 - NKJV](https://bolls.life/NKJV/40/7/)
 >  <sup> 20 </sup>Therefore by their fruits you will know them.
