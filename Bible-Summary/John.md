@@ -386,9 +386,7 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 - We already noted how significant it was that Jesus stopped and talked to the Samaritan woman!
 	- Now Him and His disciples are staying here for 2 days!
 	- They're teaching this group of people with whom the Jews would usually have nothing to do!
-- Verse 42 is the disciples carrying out Jesus' commands in the last section
-	- I think it is important we do not miss what Jesus seems to be communicating to them
-	- By this example, Jesus is telling His disciples that God is not a respecter of persons (Acts 10:34).
+
 
 > [!bible]+ [John 4:43-47 - NKJV](https://bolls.life/NKJV/43/4/)
 >  <sup> 43 </sup>Now after the two days He departed from there and went to Galilee. <sup> 44 </sup>For Jesus Himself testified that a prophet has no honor in his own country. <sup> 45 </sup>So when He came to Galilee, the Galileans received Him, having seen all the things He did in Jerusalem at the feast; for they also had gone to the feast. <sup> 46 </sup>So Jesus came again to Cana of Galilee where He had made the water wine. And there was a certain nobleman whose son was sick at Capernaum. <sup> 47 </sup>When he heard that Jesus had come out of Judea into Galilee, he went to Him and implored Him to come down and heal his son, for he was at the point of death.
@@ -406,7 +404,28 @@ Enlightenment by life v.30           Doers of truth deeds enlightened v.21
 	- They were still talking about what Jesus had done the last time, and it seems that news had spread.
 	- The nobleman, for example, had heard about the Christ and how He performed the miracle at the wedding feast.
 	- His thought was: If Jesus can do the miracle of turning water to wine, maybe He could heal my son.
-- 
+
+> [!bible]+ [John 4:48-54 - NKJV](https://bolls.life/NKJV/43/4/)
+>  <sup> 48 </sup>Then Jesus said to him, “Unless you <i>people</i> see signs and wonders, you will by no means believe.” <sup> 49 </sup>The nobleman said to Him, “Sir, come down before my child dies!” <sup> 50 </sup>Jesus said to him, “Go your way; your son lives.” So the man believed the word that Jesus spoke to him, and he went his way. <sup> 51 </sup>And as he was now going down, his servants met him and told <i>him,</i> saying, “Your son lives!” <sup> 52 </sup>Then he inquired of them the hour when he got better. And they said to him, “Yesterday at the seventh hour the fever left him.” <sup> 53 </sup>So the father knew that <i>it</i> <i>was</i> at the same hour in which Jesus said to him, “Your son lives.” And he himself believed, and his whole household. <sup> 54 </sup>This again <i>is</i> the second sign Jesus did when He had come out of Judea into Galilee.
+
+
+- There were many through Jesus' ministry who were only interested in seeing "sign and wonders"
+	- They reduced these miracles to magic tricks
+	- The people who saw the signs at the end of John 2, for example, were not actually believers.
+- Notice the illustration of faith!
+	- Faith is just simply trust.
+		- There's a fine line between what we see here and a "blind leap in the dark"
+		- This man had reasons to trust Jesus based on what he had heard of the other works of Him
+		- Similarly; we have good reason to put our trust in Jesus!
+	- This man was put into a stressful situation
+		- We might wonder if the thought of coming home to his son being dead crossed his mind
+		- Even in the face of this possibility; he took Jesus at his word and went on his way.
+- Jesus was correct about this man's heart
+	- Jesus simply stopped performing miracles for those who He knew were just following for the miracles (again John 2:23-25).
+	- This man was truly converted; he believed with all his heart!
+	
+
+
 # References
 
 >  [Psalm 32:6 - LXX](https://bolls.life/LXX/19/32/)
