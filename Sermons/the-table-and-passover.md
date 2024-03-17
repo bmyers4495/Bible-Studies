@@ -1,0 +1,56 @@
+- The prescription of the Lord’s Supper 
+  - The Lord’s Supper was prescribed, authorized and commanded by Christ (Luke 22:14- 20) 
+    - As with all of the things we do in worship, if God did not authorize, we should not partake 
+    - This Lord’s supper was not only authorized, it was commanded by God in the flesh! 
+  - It is important to note the symbolism mentioned in this practice we are reading (Ex 12:21-28)
+    - Typology is a lot like foreshadowing.
+      - 1 Pet 3:21- baptism was an antitype of the flood
+      - The Lord’s Supper is an antitype of the Passover
+    - Put yourself in Jewish shoes during the time of the Passover
+      - You had been in captivity for some 215 years 
+        - To put this in context; the declaration of independence was signed 247 years ago
+      - You have been told your whole life about the promise made to Abraham (Gen 12:1-3).
+      - You’ve also been in some ways assimilated with the Egyptians
+        - You understood their gods; Pharaoh being one of them
+      - I would suggest that there are probably a couple things you would have noted
+        - The power of God over all “gods” (Ex 12:12)
+        - The grace of God for bringing you out of captivity
+        - The steadfastness of God to fulfill His promise
+
+- Purpose of the Lord’s Supper
+  - Simply stated, the purpose of the Lord’s supper was to put us in memory of what Christ has done for us (Luke 22:14-20) 
+    - Memorials have been very important to all cultures throughout the ages 
+      - Here in America, we have the Alamo as a memorial, we have a memorial of those who gave their lives in war protecting our freedom 
+      - Memorials have also been important throughout the Scriptures
+        - We’ve already discussed a little about the Passover meal and its significance to the Jews 
+        - There have been many other memorials that God has prescribed to His people 
+      - However, the most important memorial we ever read about in the Scriptures is that of the Lord’s supper 
+        - We are privileged to have the opportunity to partake in such an awesome memorial 
+        - We are blessed beyond the prophets, beyond those who died during Christ time on earth, simply because we get to be a part of this memorial! 
+    - The purpose is to make those partaking think on the Lord’s sacrifice for us! 
+  - Even deeper than it being a memorial for us to put us in memory of the things Christ has done for us is the fact that each emblem of which we partake represent separate parts of the same sacrifice 
+    - The bread being His body (Luke 22:19) 
+      - His body being the church (Eph 1:22-23) 
+      - His church being the body of those who have been saved (cf Acts 2:47) 
+    - The fruit of the vine, representing Christ blood on the cross that was shed for us (Luke 2:20) 
+      - This blood is that which saves us from our sins (Eph 1:7, Heb 10:1-4; Heb 9:13-14) 
+      - Consider the fact that the shedding of His blood means that we are saved from eternal damnation 
+        - God will not be around sin; it is the way we separate ourselves from Him (Isa 59:2) 
+        - If we weren’t redeemed by this blood (eph 1:7), we would be lost to sin forever 
+    - These two emblems should be significant to all those who are redeemed by the blood of Christ! 
+
+- Biblical Practice of the Lord’s Supper 
+  - When we talk about biblical practice of anything we do in worship to God, John 4:24 always comes to mind 
+    - When we are in service to God, we must perform with spirit and truth 
+      - Spirit meaning we have out heart in the things we are doing 
+      - Truth meaning , we are doing things according to the scripture 
+      - If we don’t have both of these components, “Worship” means nothing to God 
+    - In order to worship a way that is pleasing to God, we need to understand what the Scriptures say about worship to Him, because God has not been slack with those who have attempted to worship Him in a way that wasn’t according to His word 
+      - Nadab and Abihu (Lev 10) 
+      - Saul’s unlawful sacrifice (1 Sam 13) 
+    - But we also need to make sure that our worship isn’t stale, heartless, and ritualized like that of the Pharisees 
+  - When we practice the partaking of the Lord’s Supper, our mind needs to be on the things which the emblems represent (body and blood of Christ) (1 Cor 11:23-25) 
+    - If we continue to read this same passage, we find what the result of meditating on such things should bring us to do (v28) 
+    - Just like the Passover meal was to remind them that they are not free of themselves and that they should continue to follow after the statutes of God, the Lord’s Supper reminds us that we are freed from sin through Christ, not of ourselves; causing us to need to follow after God and keep His statutes.
+    - It is of utmost importance that we practice it in this way, so that we don’t continue week after week making the same mistakes, not trying to get better.
+
