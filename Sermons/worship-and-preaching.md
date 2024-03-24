@@ -20,23 +20,25 @@
   - Israel's downfall occurred when they neglected God's law, leading to the dark ages for the church.
     - The temple was defiled with idols.
     - The Ark of the covenant was removed from its place.
-  - Restoration to God's favor required a reinstatement of God's word.
-    - Destruction resulted from a lack of knowledge.
+  - Restoration to God's favor required a reinstatement of God's word (2 Kin 22:8-22; Neh 8; Mal
+  3:7-18).
+    - Destruction resulted from a lack of knowledge (Hos 4:6)
     - The lack of knowledge stemmed from:
        - Unwillingness to study.
        - Leaders giving in to idolatry instead of teaching truth.
     - Proper teaching of God’s word was essential for maintenance.
   - The growth and maintenance of the church rely on teaching the word of the Lord.
-  - Paul's directive to Timothy was to preach the word.
+  - Paul's directive to Timothy was to preach the word (2 Tim 4:1-4).
 
 - **II. The Noble:**
-  - Participation in spirit and truth is crucial, regardless of one's position in worship.
+  - Participation in spirit and truth is crucial, regardless of one's position in worship(John 4:24).
     - Error should not be permitted, especially during worship.
     - Ensuring this involves:
        - Paying attention.
        - Comparing teachings with scriptures, as the Bereans did.
        - All aspects of worship, including the sermon, aim to impact lives.
-  - The Bereans were noble for receiving the word eagerly and verifying it daily with scripture.
+  - The Bereans were noble for receiving the word eagerly and verifying it daily with scripture(Acts
+  17:11).
     - They didn't idolize Paul but prioritized alignment with scripture.
     - Their diligence in verifying teachings prevented potential errors.
   - Engagement in worship can be challenging at times due to fatigue or hunger.
