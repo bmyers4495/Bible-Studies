@@ -6,9 +6,9 @@ kindle-sync:
     (The Lost World Series Book 1)
   author: John H. Walton and N. T. Wright
   asin: B00U073NUW
-  lastAnnotatedDate: '2024-03-13'
+  lastAnnotatedDate: '2024-03-26'
   bookImageUrl: 'https://m.media-amazon.com/images/I/A1XGt2aJfgL._SY160.jpg'
-  highlightsCount: 56
+  highlightsCount: 57
 ---
 # The Lost World of Adam and Eve
 ## Metadata
@@ -131,6 +131,9 @@ When we consider the Garden of Eden in its ancient context, we find that it is m
 
 ---
 
+Gardens were constructed adjoining sacred space as evidence of the fertility that resulted from the presence of God. They were not vegetable gardens or fields of crops; they were beautifully landscaped parks. They provided fruit that was offered to the god. Kings also built gardens adjoining their own palaces where they would receive (and impress) visitors. Thus, the text of Genesis can be seen to describe a garden, a park landscaped with exotic trees and stocked with wildlife. These were common accoutrements to temples and palaces in the ancient world. — location: [1780](kindle://book?action=open&asin=B00U073NUW&location=1780) ^ref-23637
+
+---
 Whether they confer or represent, they provide what is only God’s to give. He is the source of life, which is given by him and found in his presence (Deut 30:11-20). He is the center of order, and wisdom is the ability to discern order. Relationship with God is the beginning of wisdom (Job 28:28; Prov 1:7). Consequently, we make a mistake to think that this is simply about magical trees in a garden paradise. It is about the presence of God on earth and what relationship with him makes available. — location: [1919](kindle://book?action=open&asin=B00U073NUW&location=1919) ^ref-61357
 
 ---
